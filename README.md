@@ -5,7 +5,7 @@ This is Devin's Badges! A project I work on in my spare time that contains cool 
 I aim to be as consistent as possible with these. I also try to make these look great on most modern sites.
 
 ## 📰 Using in your project
-Adding these badges to your website? I recommend you use the `64h` files *(or `svg` if sized correctly)* if possible, to lower bandwidth usage for your users and because that is a good height for these badges.
+Adding these badges to your website? Follow these steps! You can use the `svg` files instead of you would like, if you know how to use vectors.
 
 All you really need to do is copy these depending on what file type you are using this with, replace `~link~` with whatever you are linking to, replace `~type~` with the file name of whatever badge you are doing, and replace `~alttext~` with you guessed it - alt text. 
 
