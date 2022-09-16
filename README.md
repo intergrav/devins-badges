@@ -22,5 +22,3 @@ Want to add your own badges to the project? Feel free to open up an issue and I'
 
 ## ❗ Disclaimer
 This is currently a work in progress, I only have a few badges for a few services right now. However, I am planning to have a lot more badges in the coming weeks.
-
-[![alttext](https://github.com/intergrav/devins-badges/blob/main/badges/additive_64h.png)](https://github.com/)
