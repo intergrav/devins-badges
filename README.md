@@ -11,9 +11,11 @@ All you really need to do is copy these depending on what file type you are usin
 
 Check out the [badges](https://github.com/intergrav/devins-badges/tree/main/badges) folder to see all the badge types. I don't have a website for badge picking currently, but that might come in the future if I feel like it.
 
-> *Markdown* `[![~alttext~](https://raw.githubusercontent.com/intergrav/devins-badges/main/badges/~type~_64h.png)](~link~)`
+#### Markdown
+`[![~alttext~](https://raw.githubusercontent.com/intergrav/devins-badges/main/badges/~type~_64h.png)](~link~)`
 
-> *HTML* `<a href="~link~"><img src="https://raw.githubusercontent.com/intergrav/devins-badges/main/badges/~type~_64h.png" alt="~alttext~"></a>`
+#### HTML
+`<a href="~link~"><img src="https://raw.githubusercontent.com/intergrav/devins-badges/main/badges/~type~_64h.png" alt="~alttext~"></a>`
 
 Also, you don't need to add credit - it would be nice for you to do so, but I really don't care if you do or not. I just make these for fun!
 
