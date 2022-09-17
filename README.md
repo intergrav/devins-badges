@@ -19,6 +19,12 @@ Check out the [badges](https://github.com/intergrav/devins-badges/tree/main/badg
 
 Also, you don't need to add credit - it would be nice for you to do so, but I really don't care if you do or not. I just make these for fun!
 
+### 📄 Some guidelines I recommend following
+While you don't have to do this, I recommend following these guidelines to make sure the badges look great on your page!
+- Don't scale the badges any bigger than 64 height or any lower than 56 height
+- Don't modify the badges unless needed
+- Don't have the badges too close to other text
+
 ## ➕ Adding more badges!
 Want to add your own badges to the project? Feel free to open up an issue and I'll make one! This project is made with Figma. If you are opening a PR, I will probably edit your badge just to make sure it fits in as well as possible with the rest.
 
