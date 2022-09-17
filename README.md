@@ -22,7 +22,7 @@ Also, you don't need to add credit - it would be nice for you to do so, but I re
 ### 📄 Some guidelines I recommend following
 While you don't have to do this, I recommend following these guidelines to make sure the badges look great on your page!
 - Don't scale the badges any bigger than 64 height or any lower than 56 height
-- Don't modify the badges unless needed
+- Don't modify the badges unless needed, instead ask me to make one
 - Don't have the badges too close to other text
 
 ## ➕ Adding more badges!
