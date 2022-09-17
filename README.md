@@ -1,4 +1,4 @@
-# ![Devin's Badges: Many beautifully designed badges for many services. Shows some of the badges as examples](other/banner_512h.png)
+# ![Devin's Badges: Many beautifully designed badges for many services. Shows some of the badges as examples](assets/v1/db-assets/banner_512h.png)
 ## ❓ About
 This is Devin's Badges! A project I work on in my spare time that contains cool badges for you to use in your projects.
 
@@ -7,15 +7,15 @@ I aim to be as consistent as possible with these. I also try to make these look 
 ## 📰 Using in your project!
 Adding these badges to your website? Follow these steps! You can use the `svg` files instead of `png` if you would like, if you know how to use vectors.
 
-All you really need to do is copy these depending on what file type you are using this with, replace `~link~` with whatever you are linking to, replace `~type~` with the file name of whatever badge you are doing, and replace `~alttext~` with you guessed it - alt text. 
+All you really need to do is copy these depending on what file type you are using this with, replace `~category~` with whatever category you are linking to, replace `~badge~` with the badge name of whatever badge you are doing, replace `~link~` with whatever you are linking to, and replace `~alttext~` with you guessed it - alt text. 
 
-Check out the [badges](https://github.com/intergrav/devins-badges/tree/main/badges) folder to see all the badge types. I don't have a website for badge picking currently, but that might come in the future if I feel like it.
+Check out the [assets](https://github.com/intergrav/devins-badges/tree/main/assets) folder to see all the badge types. I don't have a website for badge picking currently, but that might come in the future if anyone feels like making one.
 
 #### Markdown
-`[![~alttext~](https://raw.githubusercontent.com/intergrav/devins-badges/main/badges/~type~_64h.png)](~link~)`
+`[![~alttext~](https://raw.githubusercontent.com/intergrav/devins-badges/main/assets/v1/~category~/~badge~_64h.png)](~link~)`
 
 #### HTML
-`<a href="~link~"><img src="https://raw.githubusercontent.com/intergrav/devins-badges/main/badges/~type~_64h.png" alt="~alttext~"></a>`
+`<a href="~link~"><img src="https://raw.githubusercontent.com/intergrav/devins-badges/main/assets/v1/~category~/~badge~_64h.png" alt="~alttext~"></a>`
 
 Also, you don't need to add credit - it would be nice for you to do so, but I really don't care if you do or not. I just make these for fun!
 
