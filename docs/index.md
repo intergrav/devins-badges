@@ -10,9 +10,20 @@ All you really need to do is copy these depending on what file type you are usin
 
 Check out the [assets](https://github.com/intergrav/devins-badges/tree/v1/assets) folder to see all the badge types. I don't have a website for badge picking currently, but that might come in the future if anyone feels like making one.
 
+#### Markdown
+```markdown
+`[![~alttext~](https://raw.githubusercontent.com/intergrav/devins-badges/v1/assets/~category~/~badge~_64h.png)](~link~)`
+```
+
+#### HTML
+```html
+<a href="~link~"><img src="https://raw.githubusercontent.com/intergrav/devins-badges/v1/assets/~category~/~badge~_64h.png" alt="~alttext~"></a>`
+```
+
 Also, you don't need to add credit - it would be nice for you to do so, but I really don't care if you do or not. I just make these for fun!
 
 ### 📄 Some guidelines I recommend following
+
 While you don't have to do this, I recommend following these guidelines to make sure the badges look great on your page!
 - Don't scale the badges any bigger than 64 height or any lower than 56 height
 - Don't modify the badges unless needed, instead ask me to make one
