@@ -3,13 +3,9 @@
 
 @import "{{ site.theme }}";
 
-body {
-  font-family: "Inter", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  background-color: #1a1918;
-}
-
 ::-webkit-scrollbar {
   width: 8px;
+  height: 6px;
 }
 
 ::-webkit-scrollbar-track {
@@ -22,6 +18,15 @@ body {
 
 ::-webkit-scrollbar-thumb:hover {
   background: #f38406;
+}
+
+body {
+  font-family: "Inter", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background-color: #1a1918;
+}
+
+.highlight {
+  background-color: #0f0e0d;
 }
 
 h1, h2 {
