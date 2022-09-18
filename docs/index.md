@@ -37,3 +37,20 @@ Please star this GitHub repository if you enjoy this project!
 
 ## ❗ Disclaimer!
 This is currently a work in progress, I only have a few badges for a few services right now. However, I am planning to have a lot more badges in the coming weeks.
+
+<script src="https://giscus.app/client.js"
+        data-repo="intergrav/devins-badges"
+        data-repo-id="R_kgDOH_9quQ"
+        data-category="giscus"
+        data-category-id="DIC_kwDOH_9quc4CRdU3"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="transparent_dark"
+        data-lang="en"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+</script>
