@@ -5,7 +5,7 @@ This is Devin's Badges! A project I work on in my spare time that contains cool 
 I aim to be as consistent as possible with these. I also try to make these look great on most modern sites.
 
 ## 📰 Using in your project
-Adding these badges to your website? Follow these steps! You can use the `svg` files instead of `png` if you would like, if you know how to use vectors.
+Adding these badges to your website? Follow these steps! You can use the `svg` files instead of `png` if you would like, however, you will have to change the height so it looks nice.
 
 All you really need to do is copy these depending on what file type you are using this with, replace `~category~` with whatever category you are linking to, replace `~badge~` with the badge name of whatever badge you are doing, replace `~link~` with whatever you are linking to, and replace `~alttext~` with you guessed it - alt text. 
 
