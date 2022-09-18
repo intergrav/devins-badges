@@ -4,7 +4,7 @@ This is Devin's Badges! A project I work on in my spare time that contains cool 
 
 I aim to be as consistent as possible with these. I also try to make these look great on most modern sites.
 
-## 📰 Using in your project!
+## 📰 Using in your project
 Adding these badges to your website? Follow these steps! You can use the `svg` files instead of `png` if you would like, if you know how to use vectors.
 
 All you really need to do is copy these depending on what file type you are using this with, replace `~category~` with whatever category you are linking to, replace `~badge~` with the badge name of whatever badge you are doing, replace `~link~` with whatever you are linking to, and replace `~alttext~` with you guessed it - alt text. 
@@ -25,7 +25,7 @@ While you don't have to do this, I recommend following these guidelines to make 
 - Don't modify the badges unless needed, instead ask me to make one
 - Don't have the badges too close to other text
 
-## ➕ Adding more badges!
+## ➕ Adding more badges
 Want to add your own badges to the project? Feel free to open up an issue and I'll make one! This project is made with Figma. If you are opening a PR, I will probably edit your badge just to make sure it fits in as well as possible with the rest.
 
 ## ⭐ Enjoy this project?

@@ -1,36 +1,63 @@
 --- 
 --- 
 
-// Headers
-$header-heading-color: #eed0aa;
-$header-bg-color: #4b4526;
-$header-bg-color-secondary: #533726;
-
-// Text
-$section-headings-color: #5e420f;
-$body-text-color: #53503f;
-$body-link-color: #99703b;
-$blockquote-text-color: #6b665a;
-
-// Code
-$code-bg-color: #faf8f3;
-$code-text-color: #a38d71;
-
-// Borders
-$border-color: #f0eadc;
-$table-border-color: #ecebe9;
-$hr-border-color: #f1f0ef;
-
 @import "{{ site.theme }}";
 
 body {
-    font-family: "Inter", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Inter", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background-color: #1a1918;
 }
 
-.project-name {
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #1a1918;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #947756;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #f38406;
+}
+
+h1, h2 {
+  color:#f3b062
+}
+
+h3 {
+  color:#ebc59a
+}
+
+h4, h5, h6 {
+  color:#e0ccb6
+}
+
+a {
+  color:#e2bd93
+}
+
+code {
+  color:#a89d84
+}
+
+p {
+  color:#dbd0c3
+}
+
+header {
+  h1 {
     font-weight: 900;
-}
+  }
 
-.project-tagline {
-    font-weight: 700;
+  p {
+    text-align: center;
+  }
+
+  p.view {
+    text-align: left;
+  }
 }
