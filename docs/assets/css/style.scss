@@ -1,29 +1,23 @@
 --- 
 --- 
 
-// Headers
-$header-heading-color: #e7c88d;
-
-// Text
-$section-headings-color: #e6d3a1;
-$body-text-color: #ecdec0;
-$body-link-color: #e0be7f;
-$blockquote-text-color: #e9daca;
-
-// Code
-$code-bg-color: #faf8f3;
-$code-text-color: #d6c091;
-
-// Borders
-$border-color: #f0eadc;
-$table-border-color: #ecebe9;
-$hr-border-color: #f1f1ef;
-
 @import "{{ site.theme }}";
 
 body {
   font-family: "Inter", "Helvetica Neue", Helvetica, Arial, sans-serif;
   background-color: #1a1918;
+}
+
+h1, h2 {
+  color:#f3b062
+}
+
+h3, h4, h5, h6 {
+  color:#e4c6a5
+}
+
+p {
+  color:#dbd0c3
 }
 
 header {
