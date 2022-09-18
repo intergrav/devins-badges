@@ -1,4 +1,4 @@
-# ![Devin's Badges: Many beautifully designed badges for many services. Shows some of the badges as examples](https://raw.githubusercontent.com/intergrav/devins-badges/v1/assets/db-assets/banner_512h.png)
+# ![Devin's Badges: Many beautifully designed badges for many services. Shows some of the badges as examples](https://raw.githubusercontent.com/intergrav/devins-badges/v1/other/branding/banner_512h.png)
 ## ❓ About
 This is Devin's Badges! A project I work on in my spare time that contains cool badges for you to use in your projects.
 
