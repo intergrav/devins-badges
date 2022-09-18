@@ -1,5 +1,5 @@
 title: Devin's Badges
-logo: ../assets/db-assets/ghpages-banner.png
+logo: /assets/ghpages-banner.png
 description: Beautifully designed badges for many services.
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
