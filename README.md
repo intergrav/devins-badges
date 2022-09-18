@@ -12,17 +12,18 @@ All you really need to do is copy one of these code blocks depending on what fil
 - Replace `~badge~` with the name of the badge
 - Replace `~link~` with whatever you are linking to
 - Replace `~alttext~` with you guessed it - alt text. 
+- You can modify the height if you want, but I recommend keeping it between 50 and 64 pixels
 
 Check out the [assets](https://github.com/intergrav/devins-badges/tree/v1/assets) folder to see all the badge types. I don't have a website for badge picking currently, but that might come in the future if anyone feels like making one.
 
-#### Markdown
-```markdown
-[![~alttext~](https://raw.githubusercontent.com/intergrav/devins-badges/v1/assets/~category~/~badge~_64h.png)](~link~)
-```
-
 #### HTML
 ```html
-<a href="~link~"><img src="https://raw.githubusercontent.com/intergrav/devins-badges/v1/assets/~category~/~badge~_64h.png" alt="~alttext~"></a>
+<a href="~link~"><img src="https://raw.githubusercontent.com/intergrav/devins-badges/v1/assets/~category~/~badge~_64h.png" alt="~alttext~" height="52"></a>
+```
+
+#### Markdown *(please use HTML when possible)*
+```markdown
+[![~alttext~](https://raw.githubusercontent.com/intergrav/devins-badges/v1/assets/~category~/~badge~_64h.png)](~link~)
 ```
 
 Also, you don't need to add credit - it would be nice for you to do so, but I really don't care if you do or not. I just make these for fun!
