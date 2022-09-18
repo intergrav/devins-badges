@@ -3,6 +3,22 @@
 
 @import "{{ site.theme }}";
 
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #1a1918;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #947756;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #f38406;
+}
+
 body {
   font-family: "Inter", "Helvetica Neue", Helvetica, Arial, sans-serif;
   background-color: #1a1918;
