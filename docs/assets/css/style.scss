@@ -1,5 +1,4 @@
----
----
+--- --- 
 
 // Headers
 $header-heading-color: #eed0aa;
@@ -25,4 +24,12 @@ $hr-border-color: #f1f0ef;
 
 body {
     font-family: "Inter", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.project-name {
+    font-weight: 900;
+}
+
+.project-tagline {
+    font-weight: 700;
 }
