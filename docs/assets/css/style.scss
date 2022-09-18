@@ -8,8 +8,20 @@ body {
   background-color: #1a1918;
 }
 
-body {
-  scrollbar-color: #1a1918, #f3b062;
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #1a1918;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #947756;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #f38406;
 }
 
 h1, h2 {
