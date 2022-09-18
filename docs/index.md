@@ -12,12 +12,12 @@ Check out the [assets](https://github.com/intergrav/devins-badges/tree/v1/assets
 
 #### Markdown
 ```markdown
-`[![~alttext~](https://raw.githubusercontent.com/intergrav/devins-badges/v1/assets/~category~/~badge~_64h.png)](~link~)`
+[![~alttext~](https://raw.githubusercontent.com/intergrav/devins-badges/v1/assets/~category~/~badge~_64h.png)](~link~)
 ```
 
 #### HTML
 ```html
-<a href="~link~"><img src="https://raw.githubusercontent.com/intergrav/devins-badges/v1/assets/~category~/~badge~_64h.png" alt="~alttext~"></a>`
+<a href="~link~"><img src="https://raw.githubusercontent.com/intergrav/devins-badges/v1/assets/~category~/~badge~_64h.png" alt="~alttext~"></a>
 ```
 
 Also, you don't need to add credit - it would be nice for you to do so, but I really don't care if you do or not. I just make these for fun!
