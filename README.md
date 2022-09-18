@@ -7,7 +7,11 @@ I aim to be as consistent as possible with these. I also try to make these look 
 ## 📰 Using in your project
 Adding these badges to your website? Follow these steps! You can use the `svg` files instead of `png` if you would like, however, you will have to change the height so it looks nice.
 
-All you really need to do is copy these depending on what file type you are using this with, replace `~category~` with whatever category you are linking to, replace `~badge~` with the badge name of whatever badge you are doing, replace `~link~` with whatever you are linking to, and replace `~alttext~` with you guessed it - alt text. 
+All you really need to do is copy one of these code blocks depending on what file type you are using this with, and do all of these:
+- Replace `~category~` with whatever category you are linking to
+- Replace `~badge~` with the badge name of whatever badge you are using
+- Replace `~link~` with whatever you are linking to
+- Replace `~alttext~` with you guessed it - alt text. 
 
 Check out the [assets](https://github.com/intergrav/devins-badges/tree/v1/assets) folder to see all the badge types. I don't have a website for badge picking currently, but that might come in the future if anyone feels like making one.
 
