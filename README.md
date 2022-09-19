@@ -12,16 +12,17 @@ All you really need to do is copy one of these code blocks depending on what fil
 - Replace `~badge~` with the name of the badge
 - Replace `~link~` with whatever you are linking to
 - Replace `~alttext~` with you guessed it - alt text. 
-- You can modify the height if you want, but I recommend keeping it between 50 and 64 pixels
+- You can modify the height if you want, but I recommend keeping it between 48 and 64 pixels
 
 Check out the [assets](https://github.com/intergrav/devins-badges/tree/v1/assets) folder to see all the badge types. I don't have a website for badge picking currently, but that might come in the future if anyone feels like making one.
 
 #### HTML
 ```html
-<a href="~link~"><img src="https://raw.githubusercontent.com/intergrav/devins-badges/v1/assets/~category~/~badge~_64h.png" alt="~alttext~" height="52"></a>
+<a href="~link~"><img src="https://raw.githubusercontent.com/intergrav/devins-badges/v1/assets/~category~/~badge~_64h.png" alt="~alttext~" height="50"></a>
 ```
 
-#### Markdown *(please use HTML when possible)*
+#### Markdown
+##### Please use HTML when possible as you can't change the height through markdown and so your buttons will be big.
 ```markdown
 [![~alttext~](https://raw.githubusercontent.com/intergrav/devins-badges/v1/assets/~category~/~badge~_64h.png)](~link~)
 ```
@@ -31,7 +32,7 @@ Also, you don't need to add credit - it would be nice for you to do so, but I re
 ### 📄 Some guidelines I recommend following
 
 While you don't have to do this, I recommend following these guidelines to make sure the badges look great on your page!
-- Don't scale the badges any bigger than 64 height or any smaller than 50 height
+- Don't scale the badges any bigger than 64 height or any smaller than 48 height
 - Don't modify the badges unless needed, instead ask me to make one
 - Don't have the badges too close to other text
 
