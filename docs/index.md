@@ -7,11 +7,11 @@ I aim to be as consistent as possible with these. I also try to make these look 
 Adding these badges to your website? Follow these steps! You can use the `svg` files instead of `png` if you would like, however, you will have to change the height so it looks nice.
 
 All you really need to do is copy one of these code blocks depending on what file type you are using this with, and do all of these:
-- Replace `~category~` with the folder your badge is in
-- Replace `~badge~` with the name of the badge
-- Replace `~link~` with whatever you are linking to
+- Replace `~category~` with the folder your badge is in.
+- Replace `~badge~` with the name of the badge.
+- Replace `~link~` with whatever you are linking to.
 - Replace `~alttext~` with you guessed it - alt text. 
-- You can modify the height if you want, but I recommend keeping it between 48 and 64 pixels
+- You can modify the height if you want, but I recommend keeping it between 48 and 64 pixels.
 
 Check out the [assets](https://github.com/intergrav/devins-badges/tree/v1/assets) folder to see all the badge types. I don't have a website for badge picking currently, but that might come in the future if anyone feels like making one.
 
@@ -21,7 +21,7 @@ Check out the [assets](https://github.com/intergrav/devins-badges/tree/v1/assets
 ```
 
 #### Markdown
-##### Please use HTML when possible as you can't change the height through markdown and so your buttons will be big.
+##### Please use HTML when possible as you can't change the height through Markdown.
 ```markdown
 [![~alttext~](https://raw.githubusercontent.com/intergrav/devins-badges/v1/assets/~category~/~badge~_64h.png)](~link~)
 ```
