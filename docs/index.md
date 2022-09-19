@@ -6,7 +6,7 @@ I aim to be as consistent as possible with these. I also try to make these look 
 ## 📰 Using in your project
 Adding these badges to your website? Follow these steps! You can use the `svg` files instead of `png` if you would like, however, you will have to change the height so it looks nice.
 
-All you really need to do is copy one of these code blocks depending on what file type you are using this with, and do all of these:
+All you really need to do is copy one of these code blocks depending on what file type you are using this with, and do all of these.
 - Replace `~category~` with the folder your badge is in.
 - Replace `~badge~` with the name of the badge.
 - Replace `~link~` with whatever you are linking to.
@@ -21,7 +21,7 @@ Check out the [assets](https://github.com/intergrav/devins-badges/tree/v1/assets
 ```
 
 #### Markdown
-##### Please use HTML when possible as you can't change the height through Markdown.
+##### Please use HTML when possible, as you can't change the height through Markdown.
 ```markdown
 [![~alttext~](https://raw.githubusercontent.com/intergrav/devins-badges/v1/assets/~category~/~badge~_64h.png)](~link~)
 ```
@@ -30,7 +30,7 @@ Also, you don't need to add credit - it would be nice for you to do so, but I re
 
 ### 📄 Some guidelines I recommend following
 
-While you don't have to do this, I recommend following these guidelines to make sure the badges look great on your page!
+While you don't have to do this, I recommend following these guidelines to make sure the badges look great on your page.
 - Don't scale the badges any bigger than 64 height or any smaller than 48 height
 - Don't modify the badges unless needed, instead ask me to make one
 - Don't have the badges too close to other text
