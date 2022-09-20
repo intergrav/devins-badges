@@ -7,7 +7,7 @@ I aim to be as consistent as possible with these. I also try to make these look 
 Adding these badges to your website? Follow these steps! You can use the `svg` files instead of `png` if you would like, however, you will have to change the height so it looks nice.
 
 All you really need to do is copy one of these code blocks depending on what file type and badge type you are using this with, and do all of these.
-- Replace `~category~` with the folder your badge is in.
+- Replace `~category~` with the category your badge is in.
 - Replace `~badge~` with the name of the badge.
 - Replace `~link~` with whatever you are linking to.
 - Replace `~alttext~` with you guessed it - alt text.
