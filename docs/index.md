@@ -6,33 +6,68 @@ I aim to be as consistent as possible with these. I also try to make these look 
 ## 📰 Using in your project
 Adding these badges to your website? Follow these steps! You can use the `svg` files instead of `png` if you would like, however, you will have to change the height so it looks nice.
 
-All you really need to do is copy one of these code blocks depending on what file type you are using this with, and do all of these.
+All you really need to do is copy one of these code blocks depending on what file type and badge type you are using this with, and do all of these.
 - Replace `~category~` with the folder your badge is in.
 - Replace `~badge~` with the name of the badge.
 - Replace `~link~` with whatever you are linking to.
-- Replace `~alttext~` with you guessed it - alt text. 
-- You can modify the height if you want, but I recommend keeping it between 48 and 64 pixels.
+- Replace `~alttext~` with you guessed it - alt text.
 
-Check out the [assets](https://github.com/intergrav/devins-badges/tree/v1/assets) folder to see all the badge types. I don't have a website for badge picking currently, but that might come in the future if anyone feels like making one.
+Check out the [assets](https://github.com/intergrav/devins-badges/tree/v2/assets) folder to see all the badge types. I don't have a website for badge picking currently, but that might come in the future if anyone wants to make one.
 
-#### HTML
-```html
-<a href="~link~"><img src="https://raw.githubusercontent.com/intergrav/devins-badges/v1/assets/~category~/~badge~_64h.png" alt="~alttext~" height="50"></a>
-```
+I highly recommend using HTML when possible as you can't resize the badges with Markdown.
 
-#### Markdown
-##### Please use HTML when possible, as you can't change the height through Markdown.
-```markdown
-[![~alttext~](https://raw.githubusercontent.com/intergrav/devins-badges/v1/assets/~category~/~badge~_64h.png)](~link~)
-```
+<blockquote>
+<details>
+<summary>HTML</summary>
+
+> #### Cozy (biggest) (recommended height 48-64)
+> ```html
+> <a href="~link~"><img src="https://raw.githubusercontent.com/intergrav/devins-badges/v2/assets/cozy/~category~/~badge~_64h.png" alt="~alttext~" height="50"></a>
+> ```
+
+> #### Compact (less tall, wider) (recommended height 34-46)
+> ```html
+> <a href="~link~"><img src="https://raw.githubusercontent.com/intergrav/devins-badges/v2/assets/compact/~category~/~badge~_46h.png" alt="~alttext~" height="36"></a>
+> ```
+
+> #### Minimal (icon only) (recommended height 48-64)
+> ```html
+> <a href="~link~"><img src="https://raw.githubusercontent.com/intergrav/devins-badges/v2/assets/minimal/~category~/~badge~_64h.png" alt="~alttext~" height="50"></a>
+> ```
+
+</details>
+</blockquote>
+
+<blockquote>
+<details>
+<summary>Markdown</summary>
+
+### ❗ Use HTML when possible, as you can't change the height through Markdown.
+
+> #### Cozy (biggest)
+> ```markdown
+> [![~alttext~](https://raw.githubusercontent.com/intergrav/devins-badges/v2/assets/cozy/~category~/~badge~_64h.png)](~link~)
+> ```
+
+> #### Compact (less tall, wider)
+> ```markdown
+> [![~alttext~](https://raw.githubusercontent.com/intergrav/devins-badges/v2/assets/compact/~category~/~badge~_46h.png)](~link~)
+> ```
+
+> #### Minimal (icon only)
+> ```markdown
+> [![~alttext~](https://raw.githubusercontent.com/intergrav/devins-badges/v2/assets/minimal/~category~/~badge~_64h.png)](~link~)
+> ```
+
+</details>
+</blockquote>
 
 Also, you don't need to add credit - it would be nice for you to do so, but I really don't care if you do or not. I just make these for fun!
 
-### 📄 Some guidelines I recommend following
+## 📄 Some guidelines I recommend following
 
 While you don't have to do this, I recommend following these guidelines to make sure the badges look great on your page.
-- Don't scale the badges any bigger than 64 height or any smaller than 48 height
-- Don't modify the badges unless needed, instead ask me to make one
+- Don't modify the badges unless needed
 - Don't have the badges too close to other text
 
 ## ➕ Adding more badges
