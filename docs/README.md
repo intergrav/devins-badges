@@ -1,1 +1,1 @@
-This folder is used for storing assets for the website.
+This folder is used for storing website assets.

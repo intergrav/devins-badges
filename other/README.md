@@ -1,1 +1,1 @@
-This folder is used for storing other assets like Figma files, and any other non-badge file.
+This folder is used for storing other assets like Figma files.
