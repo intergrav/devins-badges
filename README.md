@@ -17,9 +17,7 @@ Check out the [assets](https://github.com/intergrav/devins-badges/tree/v2/assets
 
 I highly recommend using HTML when possible as you can't resize the badges with Markdown.
 
-<blockquote>
-<details>
-<summary>HTML</summary>
+### HTML
 
 > #### Cozy (biggest) (recommended height 48-64)
 > ```html
@@ -36,14 +34,8 @@ I highly recommend using HTML when possible as you can't resize the badges with 
 > <a href="~link~"><img src="https://raw.githubusercontent.com/intergrav/devins-badges/v2/assets/minimal/~category~/~badge~_64h.png" alt="~alttext~" height="50"></a>
 > ```
 
-</details>
-</blockquote>
-
-<blockquote>
-<details>
-<summary>Markdown</summary>
-
-### ❗ Use HTML when possible, as you can't change the height through Markdown.
+### Markdown
+#### ❗ Use HTML when possible, as you can't change the height through Markdown.
 
 > #### Cozy (biggest)
 > ```markdown
@@ -59,9 +51,6 @@ I highly recommend using HTML when possible as you can't resize the badges with 
 > ```markdown
 > [![~alttext~](https://raw.githubusercontent.com/intergrav/devins-badges/v2/assets/minimal/~category~/~badge~_64h.png)](~link~)
 > ```
-
-</details>
-</blockquote>
 
 Also, you don't need to add credit - it would be nice for you to do so, but I really don't care if you do or not. I just make these for fun!
 

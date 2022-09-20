@@ -34,7 +34,7 @@ I highly recommend using HTML when possible as you can't resize the badges with 
 > ```
 
 ### Markdown
-### ❗ Use HTML when possible, as you can't change the height through Markdown.
+#### ❗ Use HTML when possible, as you can't change the height through Markdown.
 
 > #### Cozy (biggest)
 > ```markdown
