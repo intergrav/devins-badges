@@ -7,7 +7,7 @@
 <path d="M23.9952 13.3398L18.4689 16.4703L23.9981 19.5922L29.5245 16.4646L23.9952 13.3398Z" stroke="url(#paint4_linear_28_990)" stroke-width="0.6" stroke-linejoin="round"/>
 <path d="M11.4996 13.6173L11.5026 19.8726L17.0318 22.9945L17.0289 16.7421L11.4996 13.6173Z" stroke="url(#paint5_linear_28_990)" stroke-width="0.6" stroke-linejoin="round"/>
 <path d="M17.9899 17.2858L17.9928 23.5383L23.5221 26.663L23.5191 20.4106L17.9899 17.2858Z" stroke="url(#paint6_linear_28_990)" stroke-width="0.6" stroke-linejoin="round"/>
-<path d="M11.5024 20.9571L11.5054 27.2096L17.0346 30.3315L17.0317 24.079L11.5024 20.9571Z" stroke="url(#paint7_linear_28_990)" stroke-width="0.6" stroke-linejoin="round"/>
+<path d="M11.5024 20.9572L11.5054 27.2096L17.0346 30.3315L17.0317 24.0791L11.5024 20.9572Z" stroke="url(#paint7_linear_28_990)" stroke-width="0.6" stroke-linejoin="round"/>
 <path d="M17.9928 24.6255L17.9957 30.878L23.525 33.9999L23.5221 27.7475L17.9928 24.6255Z" stroke="url(#paint8_linear_28_990)" stroke-width="0.6" stroke-linejoin="round"/>
 <path d="M24.486 33.9999L30.0123 30.8722L30.0094 24.6198L24.483 27.7475L24.486 33.9999Z" stroke="url(#paint9_linear_28_990)" stroke-width="0.6" stroke-linejoin="round"/>
 <path d="M30.9733 30.3257L36.4996 27.198L36.4938 20.9456L30.9703 24.0733L30.9733 30.3257Z" stroke="url(#paint10_linear_28_990)" stroke-width="0.6" stroke-linejoin="round"/>
@@ -20,7 +20,7 @@
 </g>
 <rect x="0.749634" y="0.749939" width="119.5" height="38.5" rx="5.25" stroke="white" stroke-opacity="0.15" stroke-width="1.5"/>
 <defs>
-<filter id="filter0_d_28_990" x="5.99963" y="1.69995" width="36" height="36.5999" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter0_d_28_990" x="5.99963" y="1.69995" width="36" height="36.6" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
 <feOffset/>
@@ -68,7 +68,7 @@
 <stop offset="0.15" stop-color="#25B8FF"/>
 <stop offset="0.85" stop-color="#FA02FF"/>
 </linearGradient>
-<linearGradient id="paint7_linear_28_990" x1="9.42276" y1="5.69948" x2="38.032" y2="34.9023" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint7_linear_28_990" x1="9.42276" y1="5.69951" x2="38.032" y2="34.9024" gradientUnits="userSpaceOnUse">
 <stop offset="0.15" stop-color="#25B8FF"/>
 <stop offset="0.85" stop-color="#FA02FF"/>
 </linearGradient>
