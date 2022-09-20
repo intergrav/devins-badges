@@ -54,7 +54,7 @@ I highly recommend using HTML when possible as you can't resize the badges with 
 
 Also, you don't need to add credit - it would be nice for you to do so, but I really don't care if you do or not. I just make these for fun!
 
-## 📄 Some guidelines I recommend following
+### 📄 Some guidelines I recommend following
 
 While you don't have to do this, I recommend following these guidelines to make sure the badges look great on your page.
 - Don't modify the badges unless needed
