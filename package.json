@@ -1,0 +1,11 @@
+{
+    "name": "@intergrav/devins-badges",
+    "version": "2.0.0",
+    "description": "Beautifully designed badges for many services.",
+    "license": "MIT",
+    "repository": "intergrav/devins-badges",
+    "keywords": [
+        "badges",
+        "documentation"
+    ]
+}

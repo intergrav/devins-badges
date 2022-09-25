@@ -18,20 +18,19 @@ Check out the [assets](https://github.com/intergrav/devins-badges/tree/v2/assets
 I highly recommend using HTML when possible as you can't resize the badges with Markdown.
 
 ### HTML
-
 > #### Cozy (biggest) (recommended height 48-64)
 > ```html
-> <a href="~link~"><img src="https://raw.githubusercontent.com/intergrav/devins-badges/v2/assets/cozy/~category~/~badge~_64h.png" alt="~alttext~" height="50"></a>
+> <a href="~link~"><img src="https://unpkg.com/@intergrav/devins-badges@2/assets/cozy/~category~/~badge~_64h.png" alt="~alttext~" height="50"></a>
 > ```
 
 > #### Compact (less tall, wider) (recommended height 34-46)
 > ```html
-> <a href="~link~"><img src="https://raw.githubusercontent.com/intergrav/devins-badges/v2/assets/compact/~category~/~badge~_46h.png" alt="~alttext~" height="36"></a>
+> <a href="~link~"><img src="https://unpkg.com/@intergrav/devins-badges@2/assets/compact/~category~/~badge~_46h.png" alt="~alttext~" height="36"></a>
 > ```
 
 > #### Minimal (icon only) (recommended height 48-64)
 > ```html
-> <a href="~link~"><img src="https://raw.githubusercontent.com/intergrav/devins-badges/v2/assets/minimal/~category~/~badge~_64h.png" alt="~alttext~" height="50"></a>
+> <a href="~link~"><img src="https://unpkg.com/@intergrav/devins-badges@2/assets/minimal/~category~/~badge~_64h.png" alt="~alttext~" height="50"></a>
 > ```
 
 ### Markdown
