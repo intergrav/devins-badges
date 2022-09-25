@@ -37,17 +37,17 @@ I highly recommend using HTML when possible as you can't resize the badges with 
 
 > #### Cozy (biggest)
 > ```markdown
-> [![~alttext~](https://raw.githubusercontent.com/intergrav/devins-badges/v2/assets/cozy/~category~/~badge~_64h.png)](~link~)
+> [![~alttext~](https://unpkg.com/@intergrav/devins-badges@2/assets/cozy/~category~/~badge~_64h.png)](~link~)
 > ```
 
 > #### Compact (less tall, wider)
 > ```markdown
-> [![~alttext~](https://raw.githubusercontent.com/intergrav/devins-badges/v2/assets/compact/~category~/~badge~_46h.png)](~link~)
+> [![~alttext~](https://unpkg.com/@intergrav/devins-badges@2/assets/compact/~category~/~badge~_46h.png)](~link~)
 > ```
 
 > #### Minimal (icon only)
 > ```markdown
-> [![~alttext~](https://raw.githubusercontent.com/intergrav/devins-badges/v2/assets/minimal/~category~/~badge~_64h.png)](~link~)
+> [![~alttext~](https://unpkg.com/@intergrav/devins-badges@2/assets/minimal/~category~/~badge~_64h.png)](~link~)
 > ```
 
 Also, you don't need to add credit - it would be nice for you to do so, but I really don't care if you do or not. I just make these for fun!
