@@ -22,17 +22,17 @@ I highly recommend using HTML when possible as you can't resize the badges with 
 ### HTML
 > #### Cozy (biggest) (recommended height 48-64)
 > ```html
-> <a href="~link~"><img src="https://unpkg.com/@intergrav/devins-badges@2/assets/cozy/~category~/~badge~_64h.png" alt="~alttext~" height="50"></a>
+> <a href="~link~"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/~category~/~badge~_64h.png" alt="~alttext~" height="50"></a>
 > ```
 
 > #### Compact (less tall, wider) (recommended height 34-46)
 > ```html
-> <a href="~link~"><img src="https://unpkg.com/@intergrav/devins-badges@2/assets/compact/~category~/~badge~_46h.png" alt="~alttext~" height="36"></a>
+> <a href="~link~"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/~category~/~badge~_46h.png" alt="~alttext~" height="36"></a>
 > ```
 
 > #### Minimal (icon only) (recommended height 48-64)
 > ```html
-> <a href="~link~"><img src="https://unpkg.com/@intergrav/devins-badges@2/assets/minimal/~category~/~badge~_64h.png" alt="~alttext~" height="50"></a>
+> <a href="~link~"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/~category~/~badge~_64h.png" alt="~alttext~" height="50"></a>
 > ```
 
 ### Markdown
@@ -40,17 +40,17 @@ I highly recommend using HTML when possible as you can't resize the badges with 
 
 > #### Cozy (biggest)
 > ```markdown
-> [![~alttext~](https://unpkg.com/@intergrav/devins-badges@2/assets/cozy/~category~/~badge~_64h.png)](~link~)
+> [![~alttext~](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/~category~/~badge~_64h.png)](~link~)
 > ```
 
 > #### Compact (less tall, wider)
 > ```markdown
-> [![~alttext~](https://unpkg.com/@intergrav/devins-badges@2/assets/compact/~category~/~badge~_46h.png)](~link~)
+> [![~alttext~](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/~category~/~badge~_46h.png)](~link~)
 > ```
 
 > #### Minimal (icon only)
 > ```markdown
-> [![~alttext~](https://unpkg.com/@intergrav/devins-badges@2/assets/minimal/~category~/~badge~_64h.png)](~link~)
+> [![~alttext~](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/~category~/~badge~_64h.png)](~link~)
 > ```
 
 Also, you don't need to add credit - it would be nice for you to do so, but I really don't care if you do or not. I just make these for fun!
