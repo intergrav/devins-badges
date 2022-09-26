@@ -4,6 +4,9 @@ layout: no-sidebar
 
 ## Compact Badges
 
+Compact badges are small in height, but larger in width. They only have one line of text.  
+Recommended height is 46px.
+
 ## Categories
 
 - [Available](#available)

@@ -4,51 +4,9 @@ This is Devin's Badges! A project I work on in my spare time that contains cool 
 I aim to be as consistent as possible with these. I also try to make these look great on most modern sites.
 
 ## 📰 Using in your project
-Adding these badges to your website? Follow these steps! You can use the `svg` files instead of `png` if you would like, however, you will have to change the height so it looks nice.
-
-All you really need to do is copy one of these code blocks depending on what file type and badge type you are using this with, and do all of these.
-- Replace `~category~` with the category your badge is in.
-- Replace `~badge~` with the name of the badge.
-- Replace `~link~` with whatever you are linking to.
-- Replace `~alttext~` with you guessed it - alt text.
-
-Check out the [assets](https://github.com/intergrav/devins-badges/tree/v2/assets) folder to see all the badge types. I don't have a website for badge picking currently, but that might come in the future if anyone wants to make one.
-
-I highly recommend using HTML when possible as you can't resize the badges with Markdown.
-
-### HTML
-> #### Cozy (biggest) (recommended height 48-64)
-> ```html
-> <a href="~link~"><img src="https://unpkg.com/@intergrav/devins-badges@2/assets/cozy/~category~/~badge~_64h.png" alt="~alttext~" height="50"></a>
-> ```
-
-> #### Compact (less tall, wider) (recommended height 34-46)
-> ```html
-> <a href="~link~"><img src="https://unpkg.com/@intergrav/devins-badges@2/assets/compact/~category~/~badge~_46h.png" alt="~alttext~" height="36"></a>
-> ```
-
-> #### Minimal (icon only) (recommended height 48-64)
-> ```html
-> <a href="~link~"><img src="https://unpkg.com/@intergrav/devins-badges@2/assets/minimal/~category~/~badge~_64h.png" alt="~alttext~" height="50"></a>
-> ```
-
-### Markdown
-#### ❗ Use HTML when possible, as you can't change the height through Markdown.
-
-> #### Cozy (biggest)
-> ```markdown
-> [![~alttext~](https://unpkg.com/@intergrav/devins-badges@2/assets/cozy/~category~/~badge~_64h.png)](~link~)
-> ```
-
-> #### Compact (less tall, wider)
-> ```markdown
-> [![~alttext~](https://unpkg.com/@intergrav/devins-badges@2/assets/compact/~category~/~badge~_46h.png)](~link~)
-> ```
-
-> #### Minimal (icon only)
-> ```markdown
-> [![~alttext~](https://unpkg.com/@intergrav/devins-badges@2/assets/minimal/~category~/~badge~_64h.png)](~link~)
-> ```
+Adding these badges to your website?  
+Head over to the [badges page](./badges) to find the badges most fitting for your use. You can then copy the HTML code (Recommended) or Markdown code for the badge you would like to use and paste that into your Markdown file.  
+Using the SVG (`*_vector.svg`) version is recommended to not lose quality when resizing the badge using the `<img>` tag.
 
 Also, you don't need to add credit - it would be nice for you to do so, but I really don't care if you do or not. I just make these for fun!
 
