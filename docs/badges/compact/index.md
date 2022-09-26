@@ -1829,7 +1829,7 @@ Badges for social sites such as Twitter, Discord, etc.
 
 ### Supported
 
-Badges displaying software that your project supports.
+Badges displaying Software/Platforms supported by your project.
 
 #### Bukkit
 
@@ -2358,4 +2358,330 @@ Badges displaying software that your project supports.
 > 
 > <!-- PNG version -->
 > ![xbox-series](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/supported/xbox-series_46h.png)
+> ```
+
+### Unsupported
+
+Badges displaying Software/Platforms NOT supported by your project.
+
+#### Bukkit
+
+> **Preview:**  
+> ![bukkit](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/unsupported/bukkit_46h.png)
+> 
+> **HTML (Recommended):**  
+> ```html
+> <!-- SVG version -->
+> <img alt="bukkit" height="46" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/unsupported/bukkit_vector.svg">
+> 
+> <!-- PNG version -->
+> <img alt="bukkit" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/unsupported/bukkit_46h.png">
+> ```
+> 
+> **Markdown:**  
+> ```markdown
+> <!-- SVG version -->
+> ![bukkit](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/unsupported/bukkit_vector.svg)
+> 
+> <!-- PNG version -->
+> ![bukkit](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/unsupported/bukkit_46h.png)
+> ```
+
+#### BungeeCord
+
+> **Preview:**  
+> ![bungeecord](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/unsupported/bungeecord_46h.png)
+> 
+> **HTML (Recommended):**  
+> ```html
+> <!-- SVG version -->
+> <img alt="bungeecord" height="46" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/unsupported/bungeecord_vector.svg">
+> 
+> <!-- PNG version -->
+> <img alt="bungeecord" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/unsupported/bungeecord_46h.png">
+> ```
+> 
+> **Markdown:**  
+> ```markdown
+> <!-- SVG version -->
+> ![bungeecord](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/unsupported/bungeecord_vector.svg)
+> 
+> <!-- PNG version -->
+> ![bungeecord](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/unsupported/bungeecord_46h.png)
+> ```
+
+#### Fabric
+
+> **Preview:**  
+> ![fabric](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/unsupported/fabric_46h.png)
+> 
+> **HTML (Recommended):**  
+> ```html
+> <!-- SVG version -->
+> <img alt="fabric" height="46" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/unsupported/fabric_vector.svg">
+> 
+> <!-- PNG version -->
+> <img alt="fabric" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/unsupported/fabric_46h.png">
+> ```
+> 
+> **Markdown:**  
+> ```markdown
+> <!-- SVG version -->
+> ![fabric](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/unsupported/fabric_vector.svg)
+> 
+> <!-- PNG version -->
+> ![fabric](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/unsupported/fabric_46h.png)
+> ```
+
+#### Forge
+
+> **Preview:**  
+> ![forge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/unsupported/forge_46h.png)
+> 
+> **HTML (Recommended):**  
+> ```html
+> <!-- SVG version -->
+> <img alt="forge" height="46" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/unsupported/forge_vector.svg">
+> 
+> <!-- PNG version -->
+> <img alt="forge" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/unsupported/forge_46h.png">
+> ```
+> 
+> **Markdown:**  
+> ```markdown
+> <!-- SVG version -->
+> ![forge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/unsupported/forge_vector.svg)
+> 
+> <!-- PNG version -->
+> ![forge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/unsupported/forge_46h.png)
+> ```
+
+#### LiteLoader
+
+> **Preview:**  
+> ![liteloader](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/unsupported/liteloader_46h.png)
+> 
+> **HTML (Recommended):**  
+> ```html
+> <!-- SVG version -->
+> <img alt="liteloader" height="46" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/unsupported/liteloader_vector.svg">
+> 
+> <!-- PNG version -->
+> <img alt="liteloader" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/unsupported/liteloader_46h.png">
+> ```
+> 
+> **Markdown:**  
+> ```markdown
+> <!-- SVG version -->
+> ![liteloader](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/unsupported/liteloader_vector.svg)
+> 
+> <!-- PNG version -->
+> ![liteloader](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/unsupported/liteloader_46h.png)
+> ```
+
+#### Paper
+
+> **Preview:**  
+> ![paper](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/unsupported/paper_46h.png)
+> 
+> **HTML (Recommended):**  
+> ```html
+> <!-- SVG version -->
+> <img alt="paper" height="46" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/unsupported/paper_vector.svg">
+> 
+> <!-- PNG version -->
+> <img alt="paper" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/unsupported/paper_46h.png">
+> ```
+> 
+> **Markdown:**  
+> ```markdown
+> <!-- SVG version -->
+> ![paper](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/unsupported/paper_vector.svg)
+> 
+> <!-- PNG version -->
+> ![paper](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/unsupported/paper_46h.png)
+> ```
+
+#### Purpur
+
+> **Preview:**  
+> ![purpur](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/unsupported/purpur_46h.png)
+> 
+> **HTML (Recommended):**  
+> ```html
+> <!-- SVG version -->
+> <img alt="purpur" height="46" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/unsupported/purpur_vector.svg">
+> 
+> <!-- PNG version -->
+> <img alt="purpur" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/unsupported/purpur_46h.png">
+> ```
+> 
+> **Markdown:**  
+> ```markdown
+> <!-- SVG version -->
+> ![purpur](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/unsupported/purpur_vector.svg)
+> 
+> <!-- PNG version -->
+> ![purpur](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/unsupported/purpur_46h.png)
+> ```
+
+#### Quilt
+
+> **Preview:**  
+> ![quilt](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/unsupported/quilt_46h.png)
+> 
+> **HTML (Recommended):**  
+> ```html
+> <!-- SVG version -->
+> <img alt="quilt" height="46" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/unsupported/quilt_vector.svg">
+> 
+> <!-- PNG version -->
+> <img alt="quilt" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/unsupported/quilt_46h.png">
+> ```
+> 
+> **Markdown:**  
+> ```markdown
+> <!-- SVG version -->
+> ![quilt](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/unsupported/quilt_vector.svg)
+> 
+> <!-- PNG version -->
+> ![quilt](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/unsupported/quilt_46h.png)
+> ```
+
+#### Rift
+
+> **Preview:**  
+> ![rift](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/unsupported/rift_46h.png)
+> 
+> **HTML (Recommended):**  
+> ```html
+> <!-- SVG version -->
+> <img alt="rift" height="46" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/unsupported/rift_vector.svg">
+> 
+> <!-- PNG version -->
+> <img alt="rift" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/unsupported/rift_46h.png">
+> ```
+> 
+> **Markdown:**  
+> ```markdown
+> <!-- SVG version -->
+> ![rift](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/unsupported/rift_vector.svg)
+> 
+> <!-- PNG version -->
+> ![rift](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/unsupported/rift_46h.png)
+> ```
+
+#### Risugami's Modloader
+
+> **Preview:**  
+> ![risugamis-modloader](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/unsupported/risugamis-modloader_46h.png)
+> 
+> **HTML (Recommended):**  
+> ```html
+> <!-- SVG version -->
+> <img alt="risugamis-modloader" height="46" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/unsupported/risugamis-modloader_vector.svg">
+> 
+> <!-- PNG version -->
+> <img alt="risugamis-modloader" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/unsupported/risugamis-modloader_46h.png">
+> ```
+> 
+> **Markdown:**  
+> ```markdown
+> <!-- SVG version -->
+> ![risugamis-modloader](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/unsupported/risugamis-modloader_vector.svg)
+> 
+> <!-- PNG version -->
+> ![risugamis-modloader](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/unsupported/risugamis-modloader_46h.png)
+> ```
+
+#### Spigot
+
+> **Preview:**  
+> ![spigot](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/unsupported/spigot_46h.png)
+> 
+> **HTML (Recommended):**  
+> ```html
+> <!-- SVG version -->
+> <img alt="spigot" height="46" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/unsupported/spigot_vector.svg">
+> 
+> <!-- PNG version -->
+> <img alt="spigot" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/unsupported/spigot_46h.png">
+> ```
+> 
+> **Markdown:**  
+> ```markdown
+> <!-- SVG version -->
+> ![spigot](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/unsupported/spigot_vector.svg)
+> 
+> <!-- PNG version -->
+> ![spigot](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/unsupported/spigot_46h.png)
+> ```
+
+#### Sponge
+
+> **Preview:**  
+> ![sponge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/unsupported/sponge_46h.png)
+> 
+> **HTML (Recommended):**  
+> ```html
+> <!-- SVG version -->
+> <img alt="sponge" height="46" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/unsupported/sponge_vector.svg">
+> 
+> <!-- PNG version -->
+> <img alt="sponge" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/unsupported/sponge_46h.png">
+> ```
+> 
+> **Markdown:**  
+> ```markdown
+> <!-- SVG version -->
+> ![sponge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/unsupported/sponge_vector.svg)
+> 
+> <!-- PNG version -->
+> ![sponge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/unsupported/sponge_46h.png)
+> ```
+
+#### Velocity
+
+> **Preview:**  
+> ![velocity](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/unsupported/velocity_46h.png)
+> 
+> **HTML (Recommended):**  
+> ```html
+> <!-- SVG version -->
+> <img alt="velocity" height="46" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/unsupported/velocity_vector.svg">
+> 
+> <!-- PNG version -->
+> <img alt="velocity" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/unsupported/velocity_46h.png">
+> ```
+> 
+> **Markdown:**  
+> ```markdown
+> <!-- SVG version -->
+> ![velocity](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/unsupported/velocity_vector.svg)
+> 
+> <!-- PNG version -->
+> ![velocity](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/unsupported/velocity_46h.png)
+> ```
+
+#### Waterfall
+
+> **Preview:**  
+> ![waterfall](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/unsupported/waterfall_46h.png)
+> 
+> **HTML (Recommended):**  
+> ```html
+> <!-- SVG version -->
+> <img alt="waterfall" height="46" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/unsupported/waterfall_vector.svg">
+> 
+> <!-- PNG version -->
+> <img alt="waterfall" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/unsupported/waterfall_46h.png">
+> ```
+> 
+> **Markdown:**  
+> ```markdown
+> <!-- SVG version -->
+> ![waterfall](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/unsupported/waterfall_vector.svg)
+> 
+> <!-- PNG version -->
+> ![waterfall](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/unsupported/waterfall_46h.png)
 > ```
