@@ -1,3 +1,8 @@
+---
+layout: no-sidebar
+---
+
+
 ## Badges
 
 ### Compact
