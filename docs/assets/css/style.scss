@@ -57,6 +57,10 @@ a {
   color:#e2bd93
 }
 
+a:hover, a:focus {
+  filter: brightness(150%)
+}
+
 code {
   color:#a89d84
 }
