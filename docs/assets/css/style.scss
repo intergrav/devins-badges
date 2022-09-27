@@ -58,6 +58,8 @@ a {
 }
 
 a:hover, a:focus {
+  color: #d19958 !important;
+  font-weight: normal !important;
   filter: brightness(150%)
 }
 
