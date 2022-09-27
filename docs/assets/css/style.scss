@@ -1,6 +1,10 @@
 --- 
 --- 
 
+.highlight .nt {
+  color: #a89d84;
+}
+
 @import "{{ site.theme }}";
 
 ::-webkit-scrollbar {
