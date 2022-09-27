@@ -2,10 +2,12 @@
 layout: no-sidebar
 ---
 
-## Minimal Badges
+*docs / [home](../index.md) / [badges](../index.md) / minimal*
 
-Minimal badges only display the Icon itself without any text attached to them.  
-Recommended height is 64px.
+# Minimal Badges
+
+Minimal badges only display the icon itself, without any text attached to them.  
+Recommended height is 48-64px.
 
 ## Categories
 

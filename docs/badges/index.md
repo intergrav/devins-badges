@@ -2,26 +2,27 @@
 layout: no-sidebar
 ---
 
+*docs / [home](../index.md) / badges*
 
-## Badges
+# Badges
 
-### Compact
+## Compact
 
 Short in height, but large in width.  
-Displays both Icon and text.
+Displays both the icon and text.
 
-> [Go to Page](./compact)
+> [Go to the page](./compact)
 
-### Cozy
+## Cozy
 
 Large in height, but short in width.  
-Displays both Icon and text.
+Displays both the icon and text.
 
-> [Go to Page](./cozy)
+> [Go to the page](./cozy)
 
-### Minimal
+## Minimal
 
-Short in height and width.  
-Only displays the Icon.
+Short in height and short in width.  
+Only displays the icon.
 
-> [Go to Page](./minimal)
+> [Go to the page](./minimal)

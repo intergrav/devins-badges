@@ -2,10 +2,12 @@
 layout: no-sidebar
 ---
 
-## Cozy Badges
+*docs / [home](../index.md) / [badges](../index.md) / cozy*
+
+# Cozy Badges
 
 Cozy badges are large in height, but smaller in width. They have two lines of text displayed.  
-Recommended height is 64px.
+Recommended height is 48-64px.
 
 ## Categories
 

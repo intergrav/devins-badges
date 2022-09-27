@@ -2,10 +2,12 @@
 layout: no-sidebar
 ---
 
-## Compact Badges
+*docs / [home](../index.md) / [badges](../index.md) / compact*
+
+# Compact Badges
 
 Compact badges are small in height, but larger in width. They only have one line of text.  
-Recommended height is 46px.
+Recommended height is 32-46px.
 
 ## Categories
 
