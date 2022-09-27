@@ -1,10 +1,6 @@
 --- 
 --- 
 
-.highlight .nt {
-  color: #a89d84;
-}
-
 @import "{{ site.theme }}";
 
 ::-webkit-scrollbar {
@@ -31,6 +27,10 @@ body {
 
 .highlight {
   background-color: #0f0e0d;
+}
+
+.highlight .nt {
+  color: #a89d84;
 }
 
 h1, h2 {
