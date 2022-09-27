@@ -9,6 +9,8 @@ layout: no-sidebar
 Compact badges are small in height, but larger in width. They only have one line of text.  
 Recommended height is 32-46px.
 
+> Looking for a specific badge? Use <kbd>Ctrl+F</kbd> on Windows or <kbd>Cmd+F</kbd> on Mac to look through the page.*
+
 ## Categories
 
 - [Available](#available)

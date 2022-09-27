@@ -9,6 +9,8 @@ layout: no-sidebar
 Minimal badges only display the icon itself, without any text attached to them.  
 Recommended height is 48-64px.
 
+> Looking for a specific badge? Use <kbd>Ctrl+F</kbd> on Windows or <kbd>Cmd+F</kbd> on Mac to look through the page.*
+
 ## Categories
 
 - [Available](#available)

@@ -9,6 +9,8 @@ layout: no-sidebar
 Cozy badges are large in height, but smaller in width. They have two lines of text displayed.  
 Recommended height is 48-64px.
 
+> Looking for a specific badge? Use <kbd>Ctrl+F</kbd> on Windows or <kbd>Cmd+F</kbd> on Mac to look through the page.*
+
 ## Categories
 
 - [Available](#available)
