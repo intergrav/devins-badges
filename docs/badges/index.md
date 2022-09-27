@@ -10,6 +10,7 @@ layout: no-sidebar
 
 Short in height, but large in width.  
 Displays both the icon and text.
+Recommended height is 32-46px.
 
 > [Go to the page >](./compact)
 
@@ -17,6 +18,7 @@ Displays both the icon and text.
 
 Large in height, but short in width.  
 Displays both the icon and text.
+Recommended height is 48-64px.
 
 > [Go to the page >](./cozy)
 
@@ -24,5 +26,6 @@ Displays both the icon and text.
 
 Short in height and short in width.  
 Only displays the icon.
+Recommended height is 48-64px.
 
 > [Go to the page >](./minimal)

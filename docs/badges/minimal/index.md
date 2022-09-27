@@ -2,14 +2,14 @@
 layout: no-sidebar
 ---
 
-*docs / [home](../index.md) / [badges](../index.md) / minimal*
+*docs / [home](../../index.md) / [badges](../index.md) / minimal*
 
 # Minimal Badges
 
 Minimal badges only display the icon itself, without any text attached to them.  
-Recommended height is 48-64px.
+The recommended height is 48-64px.
 
-> Looking for a specific badge? Use <kbd>Ctrl+F</kbd> on Windows or <kbd>Cmd+F</kbd> on Mac to look through the page.*
+> Looking for a specific badge? Use <kbd>Ctrl+F</kbd> on Windows or <kbd>⌘+F</kbd> on Mac to look through the page.
 
 ## Categories
 
@@ -37,7 +37,7 @@ Badges for places where your project may be available on.
 > <img alt="app-store" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/app-store_vector.svg">
 >
 > <!-- PNG version -->
-> <img alt="app-store" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/app-store_64h.png">
+> <img alt="app-store" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/app-store_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -62,7 +62,7 @@ Badges for places where your project may be available on.
 > <img alt="codeberg" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/codeberg_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="codeberg" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/codeberg_64h.png">
+> <img alt="codeberg" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/codeberg_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -87,7 +87,7 @@ Badges for places where your project may be available on.
 > <img alt="curseforge" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/curseforge_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="curseforge" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/curseforge_64h.png">
+> <img alt="curseforge" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/curseforge_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -112,7 +112,7 @@ Badges for places where your project may be available on.
 > <img alt="epic-games" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/epic-games_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="epic-games" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/epic-games_64h.png">
+> <img alt="epic-games" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/epic-games_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -137,7 +137,7 @@ Badges for places where your project may be available on.
 > <img alt="git" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/git_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="git" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/git_64h.png">
+> <img alt="git" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/git_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -162,7 +162,7 @@ Badges for places where your project may be available on.
 > <img alt="github" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/github_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="github" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/github_64h.png">
+> <img alt="github" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/github_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -187,7 +187,7 @@ Badges for places where your project may be available on.
 > <img alt="gitlab" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/gitlab_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="gitlab" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/gitlab_64h.png">
+> <img alt="gitlab" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/gitlab_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -212,7 +212,7 @@ Badges for places where your project may be available on.
 > <img alt="google-play" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/google-play_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="google-play" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/google-play_64h.png">
+> <img alt="google-play" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/google-play_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -237,7 +237,7 @@ Badges for places where your project may be available on.
 > <img alt="gradle-plugin-portal" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/gradle-plugin-portal_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="gradle-plugin-portal" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/gradle-plugin-portal_64h.png">
+> <img alt="gradle-plugin-portal" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/gradle-plugin-portal_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -262,7 +262,7 @@ Badges for places where your project may be available on.
 > <img alt="jitpack" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/jitpack_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="jitpack" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/jitpack_64h.png">
+> <img alt="jitpack" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/jitpack_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -287,7 +287,7 @@ Badges for places where your project may be available on.
 > <img alt="mac-app-store" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/mac-app-store_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="mac-app-store" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/mac-app-store_64h.png">
+> <img alt="mac-app-store" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/mac-app-store_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -312,7 +312,7 @@ Badges for places where your project may be available on.
 > <img alt="maven-central" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/maven-central_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="maven-central" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/maven-central_64h.png">
+> <img alt="maven-central" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/maven-central_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -337,7 +337,7 @@ Badges for places where your project may be available on.
 > <img alt="modrinth" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/modrinth_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="modrinth" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/modrinth_64h.png">
+> <img alt="modrinth" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/modrinth_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -362,7 +362,7 @@ Badges for places where your project may be available on.
 > <img alt="npm" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/npm_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="npm" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/npm_64h.png">
+> <img alt="npm" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/npm_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -387,7 +387,7 @@ Badges for places where your project may be available on.
 > <img alt="steam" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/steam_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="steam" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/steam_64h.png">
+> <img alt="steam" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/steam_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -416,7 +416,7 @@ Badges for displaying what your project was built with.
 > <img alt="additive" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/built-with/additive_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="additive" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/built-with/additive_64h.png">
+> <img alt="additive" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/built-with/additive_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -441,7 +441,7 @@ Badges for displaying what your project was built with.
 > <img alt="adrenaline" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/built-with/adrenaline_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="adrenaline" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/built-with/adrenaline_64h.png">
+> <img alt="adrenaline" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/built-with/adrenaline_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -466,7 +466,7 @@ Badges for displaying what your project was built with.
 > <img alt="docosaurus" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/built-with/docusaurus_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="docosaurus" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/built-with/docusaurus_64h.png">
+> <img alt="docosaurus" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/built-with/docusaurus_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -491,7 +491,7 @@ Badges for displaying what your project was built with.
 > <img alt="fabulously-optimized" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/built-with/fabulously-optimized_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="fabulously-optimized" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/built-with/fabulously-optimized_64h.png">
+> <img alt="fabulously-optimized" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/built-with/fabulously-optimized_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -516,7 +516,7 @@ Badges for displaying what your project was built with.
 > <img alt="java" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/built-with/java_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="java" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/built-with/java_64h.png">
+> <img alt="java" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/built-with/java_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -541,7 +541,7 @@ Badges for displaying what your project was built with.
 > <img alt="java8" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/built-with/java8_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="java8" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/built-with/java8_64h.png">
+> <img alt="java8" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/built-with/java8_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -566,7 +566,7 @@ Badges for displaying what your project was built with.
 > <img alt="java11" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/built-with/java11_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="java11" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/built-with/java11_64h.png">
+> <img alt="java11" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/built-with/java11_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -591,7 +591,7 @@ Badges for displaying what your project was built with.
 > <img alt="java17" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/built-with/java17_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="java17" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/built-with/java17_64h.png">
+> <img alt="java17" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/built-with/java17_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -616,7 +616,7 @@ Badges for displaying what your project was built with.
 > <img alt="jekyll" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/built-with/jekyll_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="jekyll" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/built-with/jekyll_64h.png">
+> <img alt="jekyll" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/built-with/jekyll_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -641,7 +641,7 @@ Badges for displaying what your project was built with.
 > <img alt="markdown" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/built-with/markdown_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="markdown" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/built-with/markdown_64h.png">
+> <img alt="markdown" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/built-with/markdown_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -666,7 +666,7 @@ Badges for displaying what your project was built with.
 > <img alt="mkdocs" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/built-with/mkdocs_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="mkdocs" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/built-with/mkdocs_64h.png">
+> <img alt="mkdocs" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/built-with/mkdocs_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -691,7 +691,7 @@ Badges for displaying what your project was built with.
 > <img alt="simply-optimized" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/built-with/simply-optimized_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="simply-optimized" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/built-with/simply-optimized_64h.png">
+> <img alt="simply-optimized" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/built-with/simply-optimized_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -720,7 +720,7 @@ Badges displaying various places where you can host your documentation.
 > <img alt="generic" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/documentation/generic_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="generic" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/documentation/generic_64h.png">
+> <img alt="generic" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/documentation/generic_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -745,7 +745,7 @@ Badges displaying various places where you can host your documentation.
 > <img alt="ghpages" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/documentation/ghpages_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="ghpages" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/documentation/ghpages_64h.png">
+> <img alt="ghpages" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/documentation/ghpages_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -770,7 +770,7 @@ Badges displaying various places where you can host your documentation.
 > <img alt="gitbook" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/documentation/gitbook_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/documentation/gitbook_64h.png">
+> <img alt="" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/documentation/gitbook_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -795,7 +795,7 @@ Badges displaying various places where you can host your documentation.
 > <img alt="modrinth-gallery" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/documentation/modrinth-gallery_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="modrinth-gallery" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/documentation/modrinth-gallery_64h.png">
+> <img alt="modrinth-gallery" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/documentation/modrinth-gallery_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -820,7 +820,7 @@ Badges displaying various places where you can host your documentation.
 > <img alt="readthedocs" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/documentation/readthedocs_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="readthedocs" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/documentation/readthedocs_64h.png">
+> <img alt="readthedocs" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/documentation/readthedocs_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -849,7 +849,7 @@ Badges that display common donation and subscription platforms.
 > <img alt="buymeacoffee-plural" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/donate/buymeacoffee-plural_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="buymeacoffee-plural" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/donate/buymeacoffee-plural_64h.png">
+> <img alt="buymeacoffee-plural" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/donate/buymeacoffee-plural_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -874,7 +874,7 @@ Badges that display common donation and subscription platforms.
 > <img alt="buymeacoffee-singular" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/donate/buymeacoffee-singular_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="buymeacoffee-singular" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/donate/buymeacoffee-singular_64h.png">
+> <img alt="buymeacoffee-singular" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/donate/buymeacoffee-singular_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -899,7 +899,7 @@ Badges that display common donation and subscription platforms.
 > <img alt="generic-plural" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/donate/generic-plural_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="generic-plural" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/donate/generic-plural_64h.png">
+> <img alt="generic-plural" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/donate/generic-plural_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -924,7 +924,7 @@ Badges that display common donation and subscription platforms.
 > <img alt="generic-singular" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/donate/generic-singular_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="generic-singular" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/donate/generic-singular_64h.png">
+> <img alt="generic-singular" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/donate/generic-singular_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -949,7 +949,7 @@ Badges that display common donation and subscription platforms.
 > <img alt="ghsponsors-plural" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/donate/ghsponsors-plural_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="ghsponsors-plural" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/donate/ghsponsors-plural_64h.png">
+> <img alt="ghsponsors-plural" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/donate/ghsponsors-plural_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -974,7 +974,7 @@ Badges that display common donation and subscription platforms.
 > <img alt="ghsponsors-singular" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/donate/ghsponsors-singular_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="ghsponsors-singular" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/donate/ghsponsors-singular_64h.png">
+> <img alt="ghsponsors-singular" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/donate/ghsponsors-singular_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -999,7 +999,7 @@ Badges that display common donation and subscription platforms.
 > <img alt="kofi-plural-alt" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/donate/kofi-plural-alt_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="kofi-plural-alt" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/donate/kofi-plural-alt_64h.png">
+> <img alt="kofi-plural-alt" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/donate/kofi-plural-alt_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -1024,7 +1024,7 @@ Badges that display common donation and subscription platforms.
 > <img alt="kofi-plural" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/donate/kofi-plural_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="kofi-plural" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/donate/kofi-plural_64h.png">
+> <img alt="kofi-plural" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/donate/kofi-plural_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -1049,7 +1049,7 @@ Badges that display common donation and subscription platforms.
 > <img alt="kofi-singular-alt" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/donate/kofi-singular-alt_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="kofi-singular-alt" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/donate/kofi-singular-alt_64h.png">
+> <img alt="kofi-singular-alt" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/donate/kofi-singular-alt_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -1074,7 +1074,7 @@ Badges that display common donation and subscription platforms.
 > <img alt="kofi-singular" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/donate/kofi-singular_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="kofi-singular" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/donate/kofi-singular_64h.png">
+> <img alt="kofi-singular" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/donate/kofi-singular_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -1099,7 +1099,7 @@ Badges that display common donation and subscription platforms.
 > <img alt="patreon-plural" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/donate/patreon-plural_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="patreon-plural" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/donate/patreon-plural_64h.png">
+> <img alt="patreon-plural" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/donate/patreon-plural_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -1124,7 +1124,7 @@ Badges that display common donation and subscription platforms.
 > <img alt="patreon-singular" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/donate/patreon-singular_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="patreon-singular" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/donate/patreon-singular_64h.png">
+> <img alt="patreon-singular" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/donate/patreon-singular_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -1149,7 +1149,7 @@ Badges that display common donation and subscription platforms.
 > <img alt="paypal-plural" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/donate/paypal-plural_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="paypal-plural" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/donate/paypal-plural_64h.png">
+> <img alt="paypal-plural" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/donate/paypal-plural_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -1174,7 +1174,7 @@ Badges that display common donation and subscription platforms.
 > <img alt="paypal-singular" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/donate/paypal-singular_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="paypal-singular" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/donate/paypal-singular_64h.png">
+> <img alt="paypal-singular" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/donate/paypal-singular_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -1203,7 +1203,7 @@ Badges that display tools, software, ... that are required for your project.
 > <img alt="architectury-api" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/requires/architectury-api_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="architectury-api" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/requires/architectury-api_64h.png">
+> <img alt="architectury-api" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/requires/architectury-api_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -1228,7 +1228,7 @@ Badges that display tools, software, ... that are required for your project.
 > <img alt="cem" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/requires/cem_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="cem" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/requires/cem_64h.png">
+> <img alt="cem" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/requires/cem_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -1253,7 +1253,7 @@ Badges that display tools, software, ... that are required for your project.
 > <img alt="cit" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/requires/cit_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="cit" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/requires/cit_64h.png">
+> <img alt="cit" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/requires/cit_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -1278,7 +1278,7 @@ Badges that display tools, software, ... that are required for your project.
 > <img alt="cloth-config-api" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/requires/cloth-config-api_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="cloth-config-api" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/requires/cloth-config-api_64h.png">
+> <img alt="cloth-config-api" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/requires/cloth-config-api_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -1303,7 +1303,7 @@ Badges that display tools, software, ... that are required for your project.
 > <img alt="ct" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/requires/ct_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="ct" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/requires/ct_64h.png">
+> <img alt="ct" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/requires/ct_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -1328,7 +1328,7 @@ Badges that display tools, software, ... that are required for your project.
 > <img alt="fabric-api" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/requires/fabric-api_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="fabric-api" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/requires/fabric-api_64h.png">
+> <img alt="fabric-api" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/requires/fabric-api_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -1353,7 +1353,7 @@ Badges that display tools, software, ... that are required for your project.
 > <img alt="geckolib" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/requires/geckolib_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="geckolib" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/requires/geckolib_64h.png">
+> <img alt="geckolib" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/requires/geckolib_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -1378,7 +1378,7 @@ Badges that display tools, software, ... that are required for your project.
 > <img alt="optifine" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/requires/optifine_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="optifine" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/requires/optifine_64h.png">
+> <img alt="optifine" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/requires/optifine_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -1403,7 +1403,7 @@ Badges that display tools, software, ... that are required for your project.
 > <img alt="quilt-standard-libraries" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/requires/quilt-standard-libraries_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="quilt-standard-libraries" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/requires/quilt-standard-libraries_64h.png">
+> <img alt="quilt-standard-libraries" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/requires/quilt-standard-libraries_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -1428,7 +1428,7 @@ Badges that display tools, software, ... that are required for your project.
 > <img alt="quilted-fabric-api" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/requires/quilted-fabric-api_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="quilted-fabric-api" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/requires/quilted-fabric-api_64h.png">
+> <img alt="quilted-fabric-api" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/requires/quilted-fabric-api_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -1457,7 +1457,7 @@ Badges for social sites such as Twitter, Discord, etc.
 > <img alt="codeberg-plural" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/social/codeberg-plural_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="codeberg-plural" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/social/codeberg-plural_64h.png">
+> <img alt="codeberg-plural" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/social/codeberg-plural_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -1482,7 +1482,7 @@ Badges for social sites such as Twitter, Discord, etc.
 > <img alt="codeberg-singular" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/social/codeberg-singular_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="codeberg-singular" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/social/codeberg-singular_64h.png">
+> <img alt="codeberg-singular" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/social/codeberg-singular_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -1507,7 +1507,7 @@ Badges for social sites such as Twitter, Discord, etc.
 > <img alt="discord-plural" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/social/discord-plural_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="discord-plural" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/social/discord-plural_64h.png">
+> <img alt="discord-plural" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/social/discord-plural_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -1532,7 +1532,7 @@ Badges for social sites such as Twitter, Discord, etc.
 > <img alt="discord-singular" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/social/discord-singular_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="discord-singular" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/social/discord-singular_64h.png">
+> <img alt="discord-singular" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/social/discord-singular_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -1557,7 +1557,7 @@ Badges for social sites such as Twitter, Discord, etc.
 > <img alt="github-plural" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/social/github-plural_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="github-plural" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/social/github-plural_64h.png">
+> <img alt="github-plural" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/social/github-plural_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -1582,7 +1582,7 @@ Badges for social sites such as Twitter, Discord, etc.
 > <img alt="github-singular" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/social/github-singular_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="github-singular" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/social/github-singular_64h.png">
+> <img alt="github-singular" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/social/github-singular_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -1607,7 +1607,7 @@ Badges for social sites such as Twitter, Discord, etc.
 > <img alt="gitlab-plural" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/social/gitlab-plural_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="gitlab-plural" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/social/gitlab-plural_64h.png">
+> <img alt="gitlab-plural" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/social/gitlab-plural_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -1632,7 +1632,7 @@ Badges for social sites such as Twitter, Discord, etc.
 > <img alt="gitlab-singular" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/social/gitlab-singular_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="gitlab-singular" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/social/gitlab-singular_64h.png">
+> <img alt="gitlab-singular" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/social/gitlab-singular_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -1657,7 +1657,7 @@ Badges for social sites such as Twitter, Discord, etc.
 > <img alt="guilded-plural" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/social/guilded-plural_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="guilded-plural" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/social/guilded-plural_64h.png">
+> <img alt="guilded-plural" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/social/guilded-plural_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -1682,7 +1682,7 @@ Badges for social sites such as Twitter, Discord, etc.
 > <img alt="guilded-singular" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/social/guilded-singular_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="guilded-singular" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/social/guilded-singular_64h.png">
+> <img alt="guilded-singular" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/social/guilded-singular_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -1707,7 +1707,7 @@ Badges for social sites such as Twitter, Discord, etc.
 > <img alt="mastodon-plural" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/social/mastodon-plural_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="mastodon-plural" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/social/mastodon-plural_64h.png">
+> <img alt="mastodon-plural" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/social/mastodon-plural_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -1732,7 +1732,7 @@ Badges for social sites such as Twitter, Discord, etc.
 > <img alt="mastodon-singular" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/social/mastodon-singular_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="mastodon-singular" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/social/mastodon-singular_64h.png">
+> <img alt="mastodon-singular" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/social/mastodon-singular_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -1757,7 +1757,7 @@ Badges for social sites such as Twitter, Discord, etc.
 > <img alt="revolt-plural" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/social/revolt-plural_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="revolt-plural" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/social/revolt-plural_64h.png">
+> <img alt="revolt-plural" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/social/revolt-plural_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -1782,7 +1782,7 @@ Badges for social sites such as Twitter, Discord, etc.
 > <img alt="revolt-singular" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/social/revolt-singular_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="revolt-singular" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/social/revolt-singular_64h.png">
+> <img alt="revolt-singular" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/social/revolt-singular_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -1807,7 +1807,7 @@ Badges for social sites such as Twitter, Discord, etc.
 > <img alt="slack-plural" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/social/slack-plural_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="slack-plural" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/social/slack-plural_64h.png">
+> <img alt="slack-plural" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/social/slack-plural_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -1832,7 +1832,7 @@ Badges for social sites such as Twitter, Discord, etc.
 > <img alt="slack-singular" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/social/slack-singular_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="slack-singular" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/social/slack-singular_64h.png">
+> <img alt="slack-singular" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/social/slack-singular_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -1857,7 +1857,7 @@ Badges for social sites such as Twitter, Discord, etc.
 > <img alt="twitch-plural" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/social/twitch-plural_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="twitch-plural" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/social/twitch-plural_64h.png">
+> <img alt="twitch-plural" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/social/twitch-plural_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -1882,7 +1882,7 @@ Badges for social sites such as Twitter, Discord, etc.
 > <img alt="twitch-singular" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/social/twitch-singular_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="twitch-singular" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/social/twitch-singular_64h.png">
+> <img alt="twitch-singular" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/social/twitch-singular_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -1907,7 +1907,7 @@ Badges for social sites such as Twitter, Discord, etc.
 > <img alt="twitter-plural" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/social/twitter-plural_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="twitter-plural" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/social/twitter-plural_64h.png">
+> <img alt="twitter-plural" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/social/twitter-plural_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -1932,7 +1932,7 @@ Badges for social sites such as Twitter, Discord, etc.
 > <img alt="twitter-singular" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/social/twitter-singular_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="twitter-singular" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/social/twitter-singular_64h.png">
+> <img alt="twitter-singular" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/social/twitter-singular_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -1957,7 +1957,7 @@ Badges for social sites such as Twitter, Discord, etc.
 > <img alt="youtube-plural" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/social/youtube-plural_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="youtube-plural" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/social/youtube-plural_64h.png">
+> <img alt="youtube-plural" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/social/youtube-plural_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -1982,7 +1982,7 @@ Badges for social sites such as Twitter, Discord, etc.
 > <img alt="youtube-singular" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/social/youtube-singular_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="youtube-singular" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/social/youtube-singular_64h.png">
+> <img alt="youtube-singular" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/social/youtube-singular_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -2011,7 +2011,7 @@ Badges displaying Software/Platforms supported by your project.
 > <img alt="bukkit" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/supported/bukkit_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="bukkit" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/supported/bukkit_64h.png">
+> <img alt="bukkit" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/supported/bukkit_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -2036,7 +2036,7 @@ Badges displaying Software/Platforms supported by your project.
 > <img alt="bungeecord" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/supported/bungeecord_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="bungeecord" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/supported/bungeecord_64h.png">
+> <img alt="bungeecord" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/supported/bungeecord_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -2061,7 +2061,7 @@ Badges displaying Software/Platforms supported by your project.
 > <img alt="fabric" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/supported/fabric_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="fabric" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/supported/fabric_64h.png">
+> <img alt="fabric" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/supported/fabric_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -2086,7 +2086,7 @@ Badges displaying Software/Platforms supported by your project.
 > <img alt="forge" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/supported/forge_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="forge" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/supported/forge_64h.png">
+> <img alt="forge" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/supported/forge_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -2111,7 +2111,7 @@ Badges displaying Software/Platforms supported by your project.
 > <img alt="gitpod" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/supported/gitpod_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="gitpod" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/supported/gitpod_64h.png">
+> <img alt="gitpod" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/supported/gitpod_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -2136,7 +2136,7 @@ Badges displaying Software/Platforms supported by your project.
 > <img alt="liteloader" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/supported/liteloader_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="liteloader" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/supported/liteloader_64h.png">
+> <img alt="liteloader" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/supported/liteloader_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -2161,7 +2161,7 @@ Badges displaying Software/Platforms supported by your project.
 > <img alt="paper" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/supported/paper_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="paper" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/supported/paper_64h.png">
+> <img alt="paper" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/supported/paper_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -2186,7 +2186,7 @@ Badges displaying Software/Platforms supported by your project.
 > <img alt="pc" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/supported/pc_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="pc" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/supported/pc_64h.png">
+> <img alt="pc" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/supported/pc_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -2211,7 +2211,7 @@ Badges displaying Software/Platforms supported by your project.
 > <img alt="ps3" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/supported/ps3_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="ps3" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/supported/ps3_64h.png">
+> <img alt="ps3" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/supported/ps3_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -2236,7 +2236,7 @@ Badges displaying Software/Platforms supported by your project.
 > <img alt="ps4" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/supported/ps4_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="ps4" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/supported/ps4_64h.png">
+> <img alt="ps4" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/supported/ps4_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -2261,7 +2261,7 @@ Badges displaying Software/Platforms supported by your project.
 > <img alt="ps5" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/supported/ps5_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="ps5" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/supported/ps5_64h.png">
+> <img alt="ps5" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/supported/ps5_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -2286,7 +2286,7 @@ Badges displaying Software/Platforms supported by your project.
 > <img alt="purpur" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/supported/purpur_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="purpur" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/supported/purpur_64h.png">
+> <img alt="purpur" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/supported/purpur_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -2311,7 +2311,7 @@ Badges displaying Software/Platforms supported by your project.
 > <img alt="quilt" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/supported/quilt_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="quilt" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/supported/quilt_64h.png">
+> <img alt="quilt" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/supported/quilt_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -2336,7 +2336,7 @@ Badges displaying Software/Platforms supported by your project.
 > <img alt="rift" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/supported/rift_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="rift" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/supported/rift_64h.png">
+> <img alt="rift" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/supported/rift_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -2361,7 +2361,7 @@ Badges displaying Software/Platforms supported by your project.
 > <img alt="risugamis-modloader" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/supported/risugamis-modloader_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="risugamis-modloader" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/supported/risugamis-modloader_64h.png">
+> <img alt="risugamis-modloader" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/supported/risugamis-modloader_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -2386,7 +2386,7 @@ Badges displaying Software/Platforms supported by your project.
 > <img alt="spigot" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/supported/spigot_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="spigot" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/supported/spigot_64h.png">
+> <img alt="spigot" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/supported/spigot_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -2411,7 +2411,7 @@ Badges displaying Software/Platforms supported by your project.
 > <img alt="sponge" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/supported/sponge_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="sponge" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/supported/sponge_64h.png">
+> <img alt="sponge" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/supported/sponge_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -2436,7 +2436,7 @@ Badges displaying Software/Platforms supported by your project.
 > <img alt="" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/supported/switch_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="switch" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/supported/switch_64h.png">
+> <img alt="switch" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/supported/switch_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -2461,7 +2461,7 @@ Badges displaying Software/Platforms supported by your project.
 > <img alt="velocity" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/supported/velocity_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="velocity" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/supported/velocity_64h.png">
+> <img alt="velocity" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/supported/velocity_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -2486,7 +2486,7 @@ Badges displaying Software/Platforms supported by your project.
 > <img alt="waterfall" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/supported/waterfall_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="waterfall" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/supported/waterfall_64h.png">
+> <img alt="waterfall" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/supported/waterfall_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -2511,7 +2511,7 @@ Badges displaying Software/Platforms supported by your project.
 > <img alt="xbox-360" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/supported/xbox-360_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="xbox-360" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/supported/xbox-360_64h.png">
+> <img alt="xbox-360" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/supported/xbox-360_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -2536,7 +2536,7 @@ Badges displaying Software/Platforms supported by your project.
 > <img alt="xbox-one" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/supported/xbox-one_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="xbox-one" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/supported/xbox-one_64h.png">
+> <img alt="xbox-one" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/supported/xbox-one_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -2561,7 +2561,7 @@ Badges displaying Software/Platforms supported by your project.
 > <img alt="xbox-series" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/supported/xbox-series_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="xbox-series" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/supported/xbox-series_64h.png">
+> <img alt="xbox-series" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/supported/xbox-series_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -2590,7 +2590,7 @@ Badges displaying Software/Platforms NOT supported by your project.
 > <img alt="bukkit" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/unsupported/bukkit_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="bukkit" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/unsupported/bukkit_64h.png">
+> <img alt="bukkit" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/unsupported/bukkit_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -2615,7 +2615,7 @@ Badges displaying Software/Platforms NOT supported by your project.
 > <img alt="bungeecord" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/unsupported/bungeecord_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="bungeecord" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/unsupported/bungeecord_64h.png">
+> <img alt="bungeecord" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/unsupported/bungeecord_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -2640,7 +2640,7 @@ Badges displaying Software/Platforms NOT supported by your project.
 > <img alt="fabric" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/unsupported/fabric_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="fabric" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/unsupported/fabric_64h.png">
+> <img alt="fabric" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/unsupported/fabric_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -2665,7 +2665,7 @@ Badges displaying Software/Platforms NOT supported by your project.
 > <img alt="forge" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/unsupported/forge_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="forge" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/unsupported/forge_64h.png">
+> <img alt="forge" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/unsupported/forge_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -2690,7 +2690,7 @@ Badges displaying Software/Platforms NOT supported by your project.
 > <img alt="liteloader" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/unsupported/liteloader_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="liteloader" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/unsupported/liteloader_64h.png">
+> <img alt="liteloader" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/unsupported/liteloader_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -2715,7 +2715,7 @@ Badges displaying Software/Platforms NOT supported by your project.
 > <img alt="paper" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/unsupported/paper_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="paper" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/unsupported/paper_64h.png">
+> <img alt="paper" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/unsupported/paper_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -2740,7 +2740,7 @@ Badges displaying Software/Platforms NOT supported by your project.
 > <img alt="purpur" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/unsupported/purpur_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="purpur" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/unsupported/purpur_64h.png">
+> <img alt="purpur" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/unsupported/purpur_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -2765,7 +2765,7 @@ Badges displaying Software/Platforms NOT supported by your project.
 > <img alt="quilt" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/unsupported/quilt_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="quilt" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/unsupported/quilt_64h.png">
+> <img alt="quilt" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/unsupported/quilt_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -2790,7 +2790,7 @@ Badges displaying Software/Platforms NOT supported by your project.
 > <img alt="rift" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/unsupported/rift_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="rift" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/unsupported/rift_64h.png">
+> <img alt="rift" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/unsupported/rift_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -2815,7 +2815,7 @@ Badges displaying Software/Platforms NOT supported by your project.
 > <img alt="risugamis-modloader" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/unsupported/risugamis-modloader_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="risugamis-modloader" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/unsupported/risugamis-modloader_64h.png">
+> <img alt="risugamis-modloader" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/unsupported/risugamis-modloader_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -2840,7 +2840,7 @@ Badges displaying Software/Platforms NOT supported by your project.
 > <img alt="spigot" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/unsupported/spigot_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="spigot" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/unsupported/spigot_64h.png">
+> <img alt="spigot" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/unsupported/spigot_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -2865,7 +2865,7 @@ Badges displaying Software/Platforms NOT supported by your project.
 > <img alt="sponge" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/unsupported/sponge_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="sponge" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/unsupported/sponge_64h.png">
+> <img alt="sponge" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/unsupported/sponge_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -2890,7 +2890,7 @@ Badges displaying Software/Platforms NOT supported by your project.
 > <img alt="velocity" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/unsupported/velocity_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="velocity" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/unsupported/velocity_64h.png">
+> <img alt="velocity" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/unsupported/velocity_64h.png">
 > ```
 > 
 > **Markdown**  
@@ -2915,7 +2915,7 @@ Badges displaying Software/Platforms NOT supported by your project.
 > <img alt="waterfall" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/unsupported/waterfall_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="waterfall" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/unsupported/waterfall_64h.png">
+> <img alt="waterfall" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/unsupported/waterfall_64h.png">
 > ```
 > 
 > **Markdown**  

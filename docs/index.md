@@ -10,7 +10,7 @@ I aim to be as consistent as possible with these. I also try to make these look 
 
 Want to add these badges to your page? Well, here's how!  
 
-Head over to the [badges page](./badges) to find the badges most fitting for your use. You can then copy the HTML code, which I recommend for best customizability, or the Markdown code for the badge you would like to use, and paste that into your file.  
+Head over to the [badge reference](./badges) to find the badges most fitting for your use. You can then copy the HTML code, which I recommend for best customizability, or the Markdown code for the badge you would like to use, and paste that into your file.  
 
 Using SVG (`*_vector.svg`) versions are recommended so you don't lose quality when resizing the badge.
 
@@ -21,7 +21,7 @@ You don't need to add credit - it would be nice for you to do so, but I really d
 While you don't have to do this, I recommend following these guidelines to make sure the badges look great on your page.
 
 - Don't modify the badges unless needed
-- Keep badge sizes in the recommended heights (available on the [badges pages](./badges))
+- Keep badge sizes in the recommended heights (available on the [badge reference](./badges))
 - Don't have the badges too close to other text
 
 ## ➕ Adding more badges
