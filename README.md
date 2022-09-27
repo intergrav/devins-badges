@@ -1,6 +1,5 @@
-# ![Devin's Badges: Many beautifully designed badges for many services. Shows some of the badges as examples](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/branding/banner_512h.png) 
+![Devin's Badges: Many beautifully designed badges for many services. Shows some of the badges as examples](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/branding/banner_512h.png) 
 
-![npm (scoped)](https://img.shields.io/npm/v/@intergrav/devins-badges?style=flat-square)
 # 🏅 About
 
 This is Devin's Badges! A project I work on in my spare time that contains cool badges for you to use in your projects.
