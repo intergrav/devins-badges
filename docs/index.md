@@ -22,7 +22,7 @@ You can make badges for your own personal use aswell if I am not available; it's
 
 ## ⭐ Enjoy this project?
 
-Please star this GitHub repository if you enjoy this project!
+Please star the GitHub repository if you enjoy this project!
 
 ## ❗ Disclaimer
 

@@ -28,7 +28,7 @@ Large in height, but short in width.
 Displays both the icon and text.
 Recommended height is 48-64px.
 
-[Go to the page >](./cozy)
+> [Go to the page >](./cozy)
 
 ### Compact
 
@@ -36,7 +36,7 @@ Short in height, but large in width.
 Displays both the icon and text.
 Recommended height is 32-46px.
 
-[Go to the page >](./compact)
+> [Go to the page >](./compact)
 
 ### Minimal
 
@@ -44,4 +44,4 @@ Short in height and short in width.
 Only displays the icon.
 Recommended height is 48-64px.
 
-[Go to the page >](./minimal)
+> [Go to the page >](./minimal)
