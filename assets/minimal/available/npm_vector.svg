@@ -1,7 +1,7 @@
 <svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
 <rect x="-0.000976562" y="-4.57764e-05" width="40" height="40" rx="6" fill="url(#paint0_linear_40_43)"/>
 <g filter="url(#filter0_d_40_43)">
-<path d="M8.99902 31H19.999V14.5H25.499V31H30.999V9H8.99902V31Z" fill="white"/>
+<path d="M8.99902 30.5C8.99902 30.7761 9.22288 31 9.49902 31H19.499C19.7752 31 19.999 30.7761 19.999 30.5V15C19.999 14.7239 20.2229 14.5 20.499 14.5H24.999C25.2752 14.5 25.499 14.7239 25.499 15V30.5C25.499 30.7761 25.7229 31 25.999 31H30.499C30.7752 31 30.999 30.7761 30.999 30.5V9.5C30.999 9.22386 30.7752 9 30.499 9H9.49902C9.22288 9 8.99902 9.22386 8.99902 9.5V30.5Z" fill="white"/>
 </g>
 <rect x="0.749023" y="0.749954" width="38.5" height="38.5" rx="5.25" stroke="white" stroke-opacity="0.15" stroke-width="1.5"/>
 <defs>
@@ -17,7 +17,7 @@
 </filter>
 <linearGradient id="paint0_linear_40_43" x1="19.999" y1="-4.57764e-05" x2="19.999" y2="39.9999" gradientUnits="userSpaceOnUse">
 <stop stop-color="#310D0D"/>
-<stop offset="1" stop-color="#1D0807"/>
+<stop offset="1" stop-color="#220909"/>
 </linearGradient>
 </defs>
 </svg>
