@@ -35,7 +35,7 @@
 <path d="M17.8335 21.2115V23.2308H20.0002V29.8269H22.0314V23.2308H24.3335V21.2115H17.8335Z" fill="#A8A8A8"/>
 <path d="M24.3335 21.2115V23.2308H26.3647V21.2115H24.3335Z" fill="#CB4627"/>
 <path d="M15.6665 23.2307V27.5384H17.8332V23.2307H15.6665Z" fill="white"/>
-<path d="M22.0312 23.2307V29.8269H20V31.8461H26.3646V27.5384H24.3333V25.5192H26.3646V23.2307H22.0312Z" fill="#969696"/>
+<path d="M22.0313 23.2307V29.8269H20V31.8461H26.3646V27.5384H24.3333V25.5192H26.3646V23.2307H22.0313Z" fill="#969696"/>
 <path d="M24.3335 25.5193V27.5385H26.3647V25.5193H24.3335Z" fill="#CB4627"/>
 <path d="M13.3647 29.8269V31.8461H15.6668V29.8269H13.3647Z" fill="#969696"/>
 </g>
@@ -52,8 +52,8 @@
 <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_28_3814" result="shape"/>
 </filter>
 <linearGradient id="paint0_linear_28_3814" x1="19.999" y1="-6.10351e-05" x2="19.999" y2="39.9999" gradientUnits="userSpaceOnUse">
-<stop stop-color="#433920"/>
-<stop offset="1" stop-color="#291C12"/>
+<stop stop-color="#342C18"/>
+<stop offset="1" stop-color="#251A11"/>
 </linearGradient>
 </defs>
 </svg>

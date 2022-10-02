@@ -66,8 +66,8 @@
 <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_28_971" result="shape"/>
 </filter>
 <linearGradient id="paint0_linear_28_971" x1="60.4996" y1="-6.10351e-05" x2="60.4996" y2="39.9999" gradientUnits="userSpaceOnUse">
-<stop stop-color="#433920"/>
-<stop offset="1" stop-color="#291C12"/>
+<stop stop-color="#342C18"/>
+<stop offset="1" stop-color="#251A11"/>
 </linearGradient>
 <linearGradient id="paint1_linear_28_971" x1="65.4996" y1="19.9999" x2="65.4996" y2="32.9999" gradientUnits="userSpaceOnUse">
 <stop stop-color="white"/>
