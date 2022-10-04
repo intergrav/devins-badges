@@ -401,6 +401,81 @@ Badges for places where your project may be available on.
 > 
 > <div align="right"><a href="#categories">👆 Back to Top</a> <a href="#available">👆 Back to Category</a></div>
 
+#### BuiltByBit
+
+> **Preview**  
+> ![builtbybit](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/available/builtbybit_64h.png)
+> 
+> **HTML (Recommended)**  
+> ```html
+> <!-- SVG version -->
+> <img alt="builtbybit" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/available/builtbybit_vector.svg">
+> 
+> <!-- PNG version -->
+> <img alt="builtbybit" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/available/builtbybit_64h.png">
+> ```
+> 
+> **Markdown**  
+> ```markdown
+> <!-- SVG version -->
+> ![builtbybit](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/available/builtbybit_vector.svg)
+> 
+> <!-- PNG version -->
+> ![builtbybit](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/available/builtbybit_64h.png)
+> ```
+> 
+> <div align="right"><a href="#categories">👆 Back to Top</a> <a href="#available">👆 Back to Category</a></div>
+
+#### NexusMods
+
+> **Preview**  
+> ![nexusmods](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/available/nexusmods_64h.png)
+> 
+> **HTML (Recommended)**  
+> ```html
+> <!-- SVG version -->
+> <img alt="nexusmods" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/available/nexusmods_vector.svg">
+> 
+> <!-- PNG version -->
+> <img alt="nexusmods" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/available/nexusmods_64h.png">
+> ```
+> 
+> **Markdown**  
+> ```markdown
+> <!-- SVG version -->
+> ![nexusmods](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/available/nexusmods_vector.svg)
+> 
+> <!-- PNG version -->
+> ![nexusmods](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/available/nexusmods_64h.png)
+> ```
+> 
+> <div align="right"><a href="#categories">👆 Back to Top</a> <a href="#available">👆 Back to Category</a></div>
+
+#### Polymart
+
+> **Preview**  
+> ![polymart](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/available/polymart_64h.png)
+> 
+> **HTML (Recommended)**  
+> ```html
+> <!-- SVG version -->
+> <img alt="polymart" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/available/polymart_vector.svg">
+> 
+> <!-- PNG version -->
+> <img alt="polymart" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/available/polymart_64h.png">
+> ```
+> 
+> **Markdown**  
+> ```markdown
+> <!-- SVG version -->
+> ![polymart](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/available/polymart_vector.svg)
+> 
+> <!-- PNG version -->
+> ![polymart](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/available/polymart_64h.png)
+> ```
+> 
+> <div align="right"><a href="#categories">👆 Back to Top</a> <a href="#available">👆 Back to Category</a></div>
+
 ### Built with
 
 Badges for displaying what your project was built with.
