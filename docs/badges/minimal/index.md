@@ -401,6 +401,31 @@ Badges for places where your project may be available on.
 > 
 > <div align="right"><a href="#categories">👆 Back to Top</a> <a href="#available">👆 Back to Category</a></div>
 
+#### PyPI
+
+> **Preview**  
+> ![PyPI](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/pypi_64h.png)
+> 
+> **HTML (Recommended)**  
+> ```html
+> <!-- SVG version -->
+> <img alt="PyPI" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/pypi_vector.svg">
+> 
+> <!-- PNG version -->
+> <img alt="PyPI" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/pypi_64h.png">
+> ```
+> 
+> **Markdown**  
+> ```markdown
+> <!-- SVG version -->
+> ![PyPI](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/pypi_vector.svg)
+> 
+> <!-- PNG version -->
+> ![PyPI](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/pypi_64h.png)
+> ```
+> 
+> <div align="right"><a href="#categories">👆 Back to Top</a> <a href="#available">👆 Back to Category</a></div>
+
 #### BuiltByBit
 
 > **Preview**  
