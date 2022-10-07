@@ -404,7 +404,7 @@ Badges for places where your project may be available on.
 #### PyPI
 
 > **Preview**  
-> ![PyPI](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/available/pypi_64h.png)
+> ![PyPI](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/available/pypi_46h.png)
 > 
 > **HTML (Recommended)**  
 > ```html
