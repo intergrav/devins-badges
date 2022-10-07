@@ -412,7 +412,7 @@ Badges for places where your project may be available on.
 > <img alt="PyPI" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/available/pypi_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="PyPI" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/available/pypi_64h.png">
+> <img alt="PyPI" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/available/pypi_46h.png">
 > ```
 > 
 > **Markdown**  
@@ -421,7 +421,7 @@ Badges for places where your project may be available on.
 > ![PyPI](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/available/pypi_vector.svg)
 > 
 > <!-- PNG version -->
-> ![PyPI](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/available/pypi_64h.png)
+> ![PyPI](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/available/pypi_46h.png)
 > ```
 > 
 > <div align="right"><a href="#categories">👆 Back to Top</a> <a href="#available">👆 Back to Category</a></div>
