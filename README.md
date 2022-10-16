@@ -1,0 +1,1 @@
+This branch holds the pages files. Currently, it instantly redirects the user to [devins-badges-docs](https://github.com/intergrav/devins-badges-docs) as that's where the actual docs are located.
