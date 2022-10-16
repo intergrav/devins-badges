@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Small questions
+    about: Ask questions on my Discord Server
+    url: https://discord.gg/36Tv44cYte
+  - name: Documentation
+    about: Documentation that shows you how to add badges to your website and more
+    url: https://intergrav.github.io/devins-badges-docs/
