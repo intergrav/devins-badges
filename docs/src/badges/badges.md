@@ -1,8 +1,9 @@
 ---
-layout: no-sidebar
+layout: layouts/base-no_sidebar.html
+title: Badge Reference
 ---
 
-*docs / [home](../index.md) / badges*
+*docs / [home](..) / badges*
 
 # 📄 Badge Reference
 

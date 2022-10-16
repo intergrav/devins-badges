@@ -1,8 +1,8 @@
 ---
-layout: no-sidebar
+layout: layouts/base-no_sidebar.html
 ---
 
-*docs / [home](../../index.md) / [badges](../index.md) / minimal*
+*docs / [home](../..) / [badges](..) / minimal*
 
 # Minimal Badges
 

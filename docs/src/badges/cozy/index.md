@@ -1,8 +1,8 @@
 ---
-layout: no-sidebar
+layout: layouts/base-no_sidebar.html
 ---
 
-*docs / [home](../../index.md) / [badges](../index.md) / cozy*
+*docs / [home](../..) / [badges](..) / cozy*
 
 # Cozy Badges
 

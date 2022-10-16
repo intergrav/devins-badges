@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="{{ '/css/base.css' | url }}">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;700;900&display=swap"
+        rel="stylesheet">
+</head>
+
+<body>
+    <div class="wrapper">
+        <header>
+            <h1>{{ title }}</h1>
+            <img class="logo" alt="Example with multiple badges" src="{{ '/assets/website-logo_512h.png' | url }}">
+            <p>Beautifully designed badges for many services.</p>
+        </header>
+        <section>
+            {{ content | safe }}
+
+            <script src="https://giscus.app/client.js" data-repo="intergrav/devins-badges" data-repo-id="R_kgDOH_9quQ"
+                data-category="giscus" data-category-id="DIC_kwDOH_9quc4CRdU3" data-mapping="pathname" data-strict="0"
+                data-reactions-enabled="1" data-emit-metadata="0" data-input-position="top"
+                data-theme="transparent_dark" data-lang="en" data-loading="lazy" crossorigin="anonymous" async>
+                </script>
+        </section>
+        <footer>
+            <a href="https://github.com/intergrav/devins-badges"><img height="36" alt="Available on GitHub"
+                    src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/available/github_vector.svg"></img></a>
+            <a href="https://www.npmjs.com/package/@intergrav/devins-badges"><img height="36" alt="Available on npm"
+                    src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/available/npm_vector.svg"></img></a>
+            <a href="https://discord.gg/36Tv44cYte"><img height="36" alt="Chat with me on Discord"
+                    src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/social/discord-singular_vector.svg"></img></a>
+        </footer>
+    </div>
+    <script src="{{ '/assets/js/scale.fix.js' | url }}"></script>
+</body>
+
+</html>
