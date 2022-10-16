@@ -3,7 +3,7 @@ name: Build Eleventy
 on:
   push:
     branches:
-      - v2
+      - docs
 
 jobs:
   build:
@@ -29,5 +29,5 @@ jobs:
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
-          publish_dir: ./docs/_site
+          publish_dir: ./_site
           github_token: ${{ secrets.GITHUB_TOKEN }}
