@@ -14,7 +14,7 @@ I aim to be as consistent as possible with these. I also try to make these look 
 
 ## 📰 Using in your project
 
-Want to add these badges to your page? Head over to the [badge reference](https://intergrav.github.io/devins-badges/badges/) to find the badges most fitting for your use, and how to use them. You can then copy the HTML code, which I recommend for best customizability, or the Markdown code for your chosen badge, and paste that into your file.
+Want to add these badges to your page? Head over to the [badge reference](https://intergrav.github.io/devins-badges-docs/badges/) to find the badges most fitting for your use, and how to use them. You can then copy the HTML code, which I recommend for best customizability, or the Markdown code for your chosen badge, and paste that into your file.
 
 ## ➕ Adding more badges
 
@@ -24,8 +24,12 @@ You can make badges for your own personal use aswell if I am not available; it's
 
 ## ⭐ Enjoy this project?
 
-Please star this GitHub repository if you enjoy this project!
+Please star the GitHub repository if you enjoy this project!
+
+## 💁 Credits
+
+For credits, head over to the [credits page](https://intergrav.github.io/devins-badges-docs/credits/).
 
 ## ❗ Disclaimer
 
-This is currently a work in progress, I only have a few badges for a few services right now. However, I am planning to have a lot more badges in the coming weeks.
+This is currently a work in progress, I only have a few badges for a few services right now. However, I am planning to have a lot more badges eventually.
