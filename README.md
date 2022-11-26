@@ -1,3 +1,9 @@
+# Please use the default branch!
+
+This is where v1 of Devin's Badges are located.
+
+---
+
 # ![Devin's Badges: Many beautifully designed badges for many services. Shows some of the badges as examples](https://raw.githubusercontent.com/intergrav/devins-badges/v1/other/branding/banner_512h.png)
 ## ❓ About
 This is Devin's Badges! A project I work on in my spare time that contains cool badges for you to use in your projects.
