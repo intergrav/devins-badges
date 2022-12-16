@@ -1,0 +1,43 @@
+<svg width="41" height="40" viewBox="0 0 41 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="0.0107422" width="40" height="40" rx="8" fill="url(#paint0_linear_2_2233)"/>
+<g filter="url(#filter0_d_2_2233)">
+<path d="M21.0117 6V8H19.0117V12H17.0117V14H15.0117V16H13.0117V18H11.0117V20H9.01172V22H7.01172V26H9.01172V28H11.0117V30H13.0117V32H15.0117V34H19.0117V32H21.0117V28H23.0117V26H25.0117V24H27.0117V22H31.0117V20H33.0117V16H31.0117V14H29.0117V12H27.0117V10H25.0117V8H23.0117V6H21.0117Z" fill="#38342A"/>
+<path d="M21.0117 8V10H23.0117V12H25.0117V14H27.0117V16H29.0117V14H27.0117V12H25.0117V10H23.0117V8H21.0117Z" fill="#DBD0B4"/>
+<path d="M21.0117 10V12H23.0117V10H21.0117Z" fill="#C6BCA5"/>
+<path d="M19.0117 12V16H15.0117V18H13.0117V20H11.0117V24H13.0117V26H15.0117V28H19.0117V24H17.0117V22H21.0117V24H23.0117V20H21.0117V18H25.0117V16H23.0117V14H21.0117V12H19.0117Z" fill="#DBD0B4"/>
+<path d="M21.0117 12V14H23.0117V16H25.0117V18H27.0117V16H25.0117V14H23.0117V12H21.0117Z" fill="#38342A"/>
+<path d="M23.0117 12V14H25.0117V12H23.0117Z" fill="#BCB29C"/>
+<path d="M17.0117 14V16H19.0117V14H17.0117Z" fill="#C6BCA5"/>
+<path d="M25.0117 14V16H27.0117V14H25.0117Z" fill="#BCB29C"/>
+<path d="M19.0117 16V18H21.0117V16H19.0117Z" fill="#C6BCA5"/>
+<path d="M27.0117 16V18H29.0117V16H27.0117Z" fill="#BCB29C"/>
+<path d="M21.0117 18V20H25.0117V18H21.0117Z" fill="#C6BCA5"/>
+<path d="M25.0117 18V20H23.0117V24H25.0117V22H27.0117V18H25.0117Z" fill="#BCB29C"/>
+<path d="M29.0117 18V20H31.0117V18H29.0117Z" fill="#807A6D"/>
+<path d="M15.0117 20V22H17.0117V20H15.0117Z" fill="#C6BCA5"/>
+<path d="M9.01172 22V24H11.0117V26H13.0117V28H15.0117V30H17.0117V28H15.0117V26H13.0117V24H11.0117V22H9.01172Z" fill="#AEA694"/>
+<path d="M17.0117 22V24H21.0117V22H17.0117Z" fill="#C6BCA5"/>
+<path d="M9.01172 24V26H11.0117V24H9.01172Z" fill="#9A927E"/>
+<path d="M19.0117 24V28H21.0117V26H23.0117V24H19.0117Z" fill="#BCB29C"/>
+<path d="M11.0117 26V28H13.0117V26H11.0117ZM13.0117 28V30H15.0117V28H13.0117Z" fill="#9A927E"/>
+<path d="M17.0117 28V30H19.0117V28H17.0117Z" fill="#BCB29C"/>
+<path d="M15.0117 30V32H17.0117V30H15.0117Z" fill="#9A927E"/>
+</g>
+<rect x="1.06074" y="1.05" width="37.9" height="37.9" rx="6.95" stroke="white" stroke-opacity="0.15" stroke-width="2.1"/>
+<defs>
+<filter id="filter0_d_2_2233" x="2.01074" y="2" width="36" height="36" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="2"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_2_2233"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_2_2233" result="shape"/>
+</filter>
+<linearGradient id="paint0_linear_2_2233" x1="20.0107" y1="0" x2="20.0107" y2="40" gradientUnits="userSpaceOnUse">
+<stop stop-color="#2D2A24"/>
+<stop offset="1" stop-color="#1E1C18"/>
+</linearGradient>
+</defs>
+</svg>
