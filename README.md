@@ -1,9 +1,15 @@
-<div align="center">
-<img alt="Devin's Badges: Many beautifully designed badges for many services. Shows some of the badges as examples" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/branding/banner_512h.png"></a>
+# `V3` is still in development!
 
-<a href="https://discord.gg/36Tv44cYte"><img alt="discord-plural" height="38" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/social/discord-plural_vector.svg"></a>
-<a href="https://github.com/intergrav/devins-badges"><img alt="github" height="38" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/available/github_vector.svg"></a>
-<a href="https://www.npmjs.com/package/@intergrav/devins-badges"><img alt="npm" height="38" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/available/npm_vector.svg"></a>
+Badges from this release could be removed or changed any time. Please use `v2` until `v3` is ready!
+
+---
+
+<div align="center">
+<img alt="Devin's Badges: Many beautifully designed badges for many services. Shows some of the badges as examples" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/branding/banner_512h.png"></a>
+
+<a href="https://discord.gg/36Tv44cYte"><img alt="discord-plural" height="38" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/social/discord-plural_vector.svg"></a>
+<a href="https://github.com/intergrav/devins-badges"><img alt="github" height="38" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/github_vector.svg"></a>
+<a href="https://www.npmjs.com/package/@intergrav/devins-badges"><img alt="npm" height="38" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/npm_vector.svg"></a>
 </div>
 
 # 🏅 About
