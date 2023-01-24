@@ -1,9 +1,3 @@
-# `V3` is still in development!
-
-Badges from this release could be removed or changed any time. Please use `v2` until `v3` is ready!
-
----
-
 <div align="center">
 <img alt="Devin's Badges: Many beautifully designed badges for many services. Shows some of the badges as examples" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/branding/banner_512h.png"></a>
 
