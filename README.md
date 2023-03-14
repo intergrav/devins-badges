@@ -1,3 +1,13 @@
+# For now, please use the badge template.
+
+If you need any new badges added to the official repository, please create your own using this [badge template](https://github.com/intergrav/devins-badges/raw/v3/other/devinsbadges-template.fig). You can open it in Figma, which is a web-based design tool that Devin's Badges is made using. Why? I currently do not have enough motivation or time to work on this project. I probably wont close any issues for the time being, so that is why it is *highly* recommended to make your own. It's very easy to use the template, and it contains some instructions for new users.
+
+Now, this doesn't mean the current files in the project are being removed or anything - they'll stay of course, I likely just wont be adding any new ones or accepting any PRs for now.
+
+Thank you for understanding.
+
+---
+
 <div align="center">
 <img alt="Devin's Badges: Many beautifully designed badges for many services. Shows some of the badges as examples" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/branding/banner_512h.png"></a>
 
