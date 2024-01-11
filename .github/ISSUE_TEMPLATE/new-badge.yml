@@ -1,0 +1,19 @@
+name: New Badge
+description: Tell us which badge you want
+labels: enhancement
+body:
+ - type: checkboxes
+   attributes:
+    label: Issue tracker rule checks (please read carefully)
+    options:
+     - label: "I have checked that this feature <a href='https://github.com/intergrav/devins-badges/issues' target='_blank'>is not already asked.</a>"
+       required: true
+     - label: "I have checked that this feature is not already implemented"
+       required: true
+ - type: textarea
+   attributes:
+    label: Badge description
+    description: Tell which badge you want
+   validations:
+    required: true
+ 
