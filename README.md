@@ -1,5 +1,7 @@
 # For now, please use the badge template.
 
+> Update Jun 16 2024: I plan on doing a project restructure (v4) at some point to clean up a lot of stuff and make it easier to maintain this project
+
 If you need any new badges that are not already in the official repository, please create your own using this [badge template](https://github.com/intergrav/devins-badges/raw/v3/other/devinsbadges-template.fig). You can open it in Figma, which is a web-based design tool that Devin's Badges is made with. Why? I currently do not have enough motivation or time to work on this project. I probably wont close any issues for the time being, so that is why it is *highly* recommended to make your own. It's very easy to use the template, and it contains some instructions for new users.
 
 Now, this doesn't mean the current files in the project are being removed or anything - they'll stay of course, I likely just wont be adding any new ones **or accepting any PRs for now.**
