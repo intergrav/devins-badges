@@ -1,0 +1,20 @@
+{
+	"name": "@intergrav/devins-badges",
+	"version": "4.0.0",
+	"description": "Open-source library of beautifully designed badges for various services",
+	"keywords": [
+		"documentation",
+		"badges"
+	],
+	"homepage": "https://badges.intergrav.xyz",
+	"bugs": {
+		"url": "https://github.com/intergrav/devins-badges/issues"
+	},
+	"license": "CC-BY-SA-4.0",
+	"author": "intergrav <intergrav@proton.me> (https://intergrav.xyz)",
+	"main": "assets",
+	"repository": "github:intergrav/devins-badges",
+	"prettier": {
+		"useTabs": true
+	}
+}
