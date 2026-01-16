@@ -8,9 +8,9 @@
 <path d="M17.0428 29.6325C17.2227 29.5655 17.4134 29.5179 17.5355 29.355" stroke="black" stroke-width="0.5" stroke-linecap="round"/>
 <path fill-rule="evenodd" clip-rule="evenodd" d="M19.9 14.8755C15.1622 13.5419 18.6852 7.5092 22.4898 9.99054L19.9 14.8755Z" fill="#6AD7E5" stroke="black" stroke-width="0.5" stroke-linecap="round"/>
 <path fill-rule="evenodd" clip-rule="evenodd" d="M40.9502 9.53783C44.7004 6.90139 48.0892 12.8497 43.7308 14.3463L40.9502 9.53783Z" fill="#6AD7E5" stroke="black" stroke-width="0.5" stroke-linecap="round"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M41.7568 44.8779C42.7094 45.4679 44.4506 47.2516 43.0216 48.1166C41.6486 49.3748 40.8801 46.7355 39.675 46.3698C40.194 45.6643 40.8518 45.0211 41.7568 44.8779Z" fill="#F6D2A2" stroke="black" stroke-width="0.5" stroke-linecap="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M41.7568 44.878C42.7094 45.4679 44.4506 47.2517 43.0216 48.1166C41.6486 49.3749 40.8801 46.7355 39.675 46.3698C40.194 45.6644 40.8518 45.0211 41.7568 44.878Z" fill="#F6D2A2" stroke="black" stroke-width="0.5" stroke-linecap="round"/>
 <path d="M43.0216 48.1165C42.8097 47.6949 42.7386 47.2028 42.3849 46.863" stroke="black" stroke-width="0.5" stroke-linecap="round"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M24.7388 46.8938C23.6208 47.067 22.9915 48.0766 22.0594 48.5893C21.1811 49.1134 20.8451 48.4214 20.766 48.281C20.6283 48.2181 20.6399 48.3395 20.4274 48.1253C19.6132 46.8392 21.2758 45.899 22.1415 45.2601C23.3473 45.0161 24.103 46.0624 24.7388 46.8938Z" fill="#F6D2A2" stroke="black" stroke-width="0.5" stroke-linecap="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M24.7388 46.8937C23.6208 47.0669 22.9915 48.0765 22.0594 48.5892C21.1811 49.1134 20.8451 48.4214 20.766 48.2809C20.6283 48.2181 20.6399 48.3394 20.4274 48.1253C19.6132 46.8391 21.2758 45.899 22.1415 45.26C23.3473 45.0161 24.103 46.0624 24.7388 46.8937Z" fill="#F6D2A2" stroke="black" stroke-width="0.5" stroke-linecap="round"/>
 <path d="M20.7661 48.2808C20.8086 47.7906 21.197 47.4624 21.3819 47.0479" stroke="black" stroke-width="0.5" stroke-linecap="round"/>
 <path fill-rule="evenodd" clip-rule="evenodd" d="M20.0977 13.2092C19.4726 12.8783 19.0141 12.4288 19.3964 11.7052C19.7504 11.0353 20.408 11.1081 21.0331 11.439L20.0977 13.2092Z" fill="black"/>
 <path fill-rule="evenodd" clip-rule="evenodd" d="M42.7434 12.5801C43.3684 12.2492 43.827 11.7997 43.4446 11.0761C43.0907 10.4062 42.4331 10.4789 41.8079 10.8099L42.7434 12.5801Z" fill="black"/>
@@ -47,7 +47,7 @@
 <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1_866"/>
 <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_1_866" result="shape"/>
 </filter>
-<filter id="filter1_d_1_866" x="54.4" y="3.9" width="83.2" height="48.2" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter1_d_1_866" x="54.4" y="3.9" width="83.2" height="48.1999" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
 <feOffset/>
