@@ -1,14 +1,8 @@
-# For now, please use the badge template.
-
-> Update Jun 16 2024: I plan on doing a project restructure (v4) at some point to clean up a lot of stuff and make it easier to maintain this project
-
-If you need any new badges that are not already in the official repository, please create your own using this [badge template](https://github.com/intergrav/devins-badges/raw/v3/other/devinsbadges-template.fig). You can open it in Figma, which is a web-based design tool that Devin's Badges is made with. Why? I currently do not have enough motivation or time to work on this project. I probably wont close any issues for the time being, so that is why it is *highly* recommended to make your own. It's very easy to use the template, and it contains some instructions for new users.
-
-Now, this doesn't mean the current files in the project are being removed or anything - they'll stay of course, I likely just wont be adding any new ones **or accepting any PRs for now.**
-
-Thank you for understanding.
-
----
+> ### Disclaimer
+> 
+> As of Jan 16, 2026, I am only going to be accepting badges for very notable projects into the official Devin's Badges repository. However, you can freely use the badge template, host and distribute your own badges however you wish!
+> 
+> *Another thing to note, about Pull Requests:* Git does not really operate well with binary files, which makes merging PRs in this repository difficult due to the inclusion of the `other/devinsbadges.fig` file. As this file is meant to be changed with every new/changed badge, I have to manually add and organize the files in Figma each time which can be very time consuming. **PRs will likely not be merged**. I would rather not remove this file, since it can be useful to keep in case I lose the original Figma project or you want to modify a currently existing badge. Apologies for this!
 
 <div align="center">
 <img alt="Devin's Badges: Many beautifully designed badges for many services. Shows some of the badges as examples" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/branding/banner_512h.png"></a>
