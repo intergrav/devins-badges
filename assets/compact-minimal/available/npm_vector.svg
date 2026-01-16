@@ -1,11 +1,11 @@
-<svg width="41" height="40" viewBox="0 0 41 40" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect x="0.0107422" y="-4.57764e-05" width="40" height="40" rx="8" fill="url(#paint0_linear_2_1318)"/>
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="40" height="40" rx="8" fill="url(#paint0_linear_2_1318)"/>
+<rect x="1.05" y="1.05" width="37.9" height="37.9" rx="6.95" stroke="white" stroke-opacity="0.15" stroke-width="2.1"/>
 <g filter="url(#filter0_d_2_1318)">
-<path d="M9.01074 30.5C9.01074 30.7761 9.2346 31 9.51074 31H19.5107C19.7869 31 20.0107 30.7761 20.0107 30.5V15C20.0107 14.7238 20.2346 14.5 20.5107 14.5H25.0107C25.2869 14.5 25.5107 14.7238 25.5107 15V30.5C25.5107 30.7761 25.7346 31 26.0107 31H30.5107C30.7869 31 31.0107 30.7761 31.0107 30.5V9.49998C31.0107 9.22384 30.7869 8.99998 30.5107 8.99998H9.51074C9.2346 8.99998 9.01074 9.22384 9.01074 9.49998V30.5Z" fill="white"/>
+<path d="M9 30.5C9 30.7762 9.22386 31 9.5 31H19.5C19.7761 31 20 30.7762 20 30.5V15C20 14.7239 20.2239 14.5 20.5 14.5H25C25.2761 14.5 25.5 14.7239 25.5 15V30.5C25.5 30.7762 25.7239 31 26 31H30.5C30.7761 31 31 30.7762 31 30.5V9.50003C31 9.22389 30.7761 9.00003 30.5 9.00003H9.5C9.22386 9.00003 9 9.22389 9 9.50003V30.5Z" fill="white"/>
 </g>
-<rect x="1.06074" y="1.04995" width="37.9" height="37.9" rx="6.95" stroke="white" stroke-opacity="0.15" stroke-width="2.1"/>
 <defs>
-<filter id="filter0_d_2_1318" x="2.01074" y="1.99995" width="36" height="36" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter0_d_2_1318" x="2" y="2" width="36" height="36" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
 <feOffset/>
@@ -15,7 +15,7 @@
 <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_2_1318"/>
 <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_2_1318" result="shape"/>
 </filter>
-<linearGradient id="paint0_linear_2_1318" x1="20.0107" y1="-4.57764e-05" x2="20.0107" y2="39.9999" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint0_linear_2_1318" x1="20" y1="0" x2="20" y2="40" gradientUnits="userSpaceOnUse">
 <stop stop-color="#310D0D"/>
 <stop offset="1" stop-color="#220909"/>
 </linearGradient>

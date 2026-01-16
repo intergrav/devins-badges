@@ -1,19 +1,19 @@
-<svg width="41" height="40" viewBox="0 0 41 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g clip-path="url(#clip0_8_85)">
-<rect x="0.0107422" y="-6.10352e-05" width="40" height="40" rx="8" fill="url(#paint0_linear_8_85)"/>
+<rect width="40" height="40" rx="8" fill="url(#paint0_linear_8_85)"/>
 <g filter="url(#filter0_d_8_85)">
 <g clip-path="url(#clip1_8_85)">
-<path d="M11.8442 16.5C13.7772 16.5 15.3442 14.933 15.3442 13C15.3442 11.067 13.7772 9.5 11.8442 9.5C9.91124 9.5 8.34424 11.067 8.34424 13C8.34424 14.933 9.91124 16.5 11.8442 16.5Z" stroke="#3FB950" stroke-width="2.86" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M11.8442 16.5V30.5" stroke="#3FB950" stroke-width="2.86" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M28.1772 30.5C30.1102 30.5 31.6772 28.933 31.6772 27C31.6772 25.067 30.1102 23.5 28.1772 23.5C26.2442 23.5 24.6772 25.067 24.6772 27C24.6772 28.933 26.2442 30.5 28.1772 30.5Z" stroke="#3FB950" stroke-width="2.86" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M23.5107 16.5L20.0107 13L23.5107 9.5" stroke="#3FB950" stroke-width="2.86" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M20.0107 13H25.8441C26.4629 13 27.0564 13.2458 27.494 13.6834C27.9316 14.121 28.1774 14.7145 28.1774 15.3333V23.5" stroke="#3FB950" stroke-width="2.86" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M11.8335 16.5001C13.7665 16.5001 15.3335 14.9331 15.3335 13.0001C15.3335 11.0671 13.7665 9.50006 11.8335 9.50006C9.9005 9.50006 8.3335 11.0671 8.3335 13.0001C8.3335 14.9331 9.9005 16.5001 11.8335 16.5001Z" stroke="#3FB950" stroke-width="2.86" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M11.8335 16.5001V30.5001" stroke="#3FB950" stroke-width="2.86" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M28.1665 30.5001C30.0995 30.5001 31.6665 28.9331 31.6665 27.0001C31.6665 25.0671 30.0995 23.5001 28.1665 23.5001C26.2335 23.5001 24.6665 25.0671 24.6665 27.0001C24.6665 28.9331 26.2335 30.5001 28.1665 30.5001Z" stroke="#3FB950" stroke-width="2.86" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M23.5 16.5001L20 13.0001L23.5 9.50006" stroke="#3FB950" stroke-width="2.86" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M20 13.0001H25.8333C26.4522 13.0001 27.0457 13.2459 27.4833 13.6835C27.9208 14.1211 28.1667 14.7146 28.1667 15.3334V23.5001" stroke="#3FB950" stroke-width="2.86" stroke-linecap="round" stroke-linejoin="round"/>
 </g>
 </g>
 </g>
-<rect x="1.06074" y="1.04994" width="37.9" height="37.9" rx="6.95" stroke="white" stroke-opacity="0.15" stroke-width="2.1"/>
+<rect x="1.05" y="1.05" width="37.9" height="37.9" rx="6.95" stroke="white" stroke-opacity="0.15" stroke-width="2.1"/>
 <defs>
-<filter id="filter0_d_8_85" x="0.296457" y="0.285654" width="39.4286" height="39.4286" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter0_d_8_85" x="0.285715" y="0.285715" width="39.4286" height="39.4286" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
 <feOffset/>
@@ -23,15 +23,15 @@
 <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_8_85"/>
 <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_8_85" result="shape"/>
 </filter>
-<linearGradient id="paint0_linear_8_85" x1="20.0107" y1="-6.10352e-05" x2="20.0107" y2="39.9999" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint0_linear_8_85" x1="20" y1="0" x2="20" y2="40" gradientUnits="userSpaceOnUse">
 <stop stop-color="#181F29"/>
 <stop offset="1" stop-color="#0F131A"/>
 </linearGradient>
 <clipPath id="clip0_8_85">
-<rect x="0.0107422" y="-6.10352e-05" width="40" height="40" rx="8" fill="white"/>
+<rect width="40" height="40" rx="8" fill="white"/>
 </clipPath>
 <clipPath id="clip1_8_85">
-<rect width="28" height="28" fill="white" transform="translate(6.01074 6)"/>
+<rect width="28" height="28" fill="white" transform="translate(6 6.00006)"/>
 </clipPath>
 </defs>
 </svg>

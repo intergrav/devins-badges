@@ -1,11 +1,11 @@
-<svg width="41" height="40" viewBox="0 0 41 40" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect x="0.0107422" y="-4.57764e-05" width="40" height="40" rx="8" fill="url(#paint0_linear_2_1717)"/>
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="40" height="40" rx="8" fill="url(#paint0_linear_2_1717)"/>
+<rect x="1.05" y="1.05" width="37.9" height="37.9" rx="6.95" stroke="white" stroke-opacity="0.15" stroke-width="2.1"/>
 <g filter="url(#filter0_d_2_1717)">
-<path d="M8.51074 29.3801V10.75H14.028L19.5452 17.5993L25.0625 10.75H30.5797V26.0924H32.5107L27.8211 30.7499L23.1314 26.0924H25.0625V18.6952L19.5452 25.5445L14.028 18.6952V29.3801H8.51074Z" fill="white"/>
+<path d="M8.5 29.3801V10.75H14.0172L19.5345 17.5993L25.0517 10.75H30.569V26.0925H32.5L27.8103 30.75L23.1207 26.0925H25.0517V18.6952L19.5345 25.5445L14.0172 18.6952V29.3801H8.5Z" fill="white"/>
 </g>
-<rect x="1.06074" y="1.04995" width="37.9" height="37.9" rx="6.95" stroke="white" stroke-opacity="0.15" stroke-width="2.1"/>
 <defs>
-<filter id="filter0_d_2_1717" x="2.01074" y="1.99995" width="36" height="36" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter0_d_2_1717" x="2" y="2" width="36" height="36" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
 <feOffset/>
@@ -15,7 +15,7 @@
 <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_2_1717"/>
 <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_2_1717" result="shape"/>
 </filter>
-<linearGradient id="paint0_linear_2_1717" x1="20.0107" y1="-4.57764e-05" x2="20.0107" y2="39.9999" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint0_linear_2_1717" x1="20" y1="0" x2="20" y2="40" gradientUnits="userSpaceOnUse">
 <stop stop-color="#323232"/>
 <stop offset="1" stop-color="#1B1B1B"/>
 </linearGradient>
