@@ -1,3 +1,5 @@
-Pull requests are **not** being merged right now. This is due to various reasons - mainly being that Figma project files are binary files so they can't be merged by Git.
+As of Jan 16, 2026, I am only going to be accepting badges for very notable projects into the official Devin's Badges repository. Feel free to make issues about those. For other badges however, you can freely use the badge template, host and distribute your own badges however you wish!
 
-At the moment, new badges are not being added, however I can make changes to existing badges if needed. If you need your own badge that isn't already in the repository, you can use the badge template in the `/other` folder. Simply open it up with Figma and follow the instructions.
+_Another thing to note, about Pull Requests:_ Git does not really operate well with binary files, which makes merging PRs in this repository difficult due to the inclusion of the `other/devinsbadges.fig` file. As this file is meant to be changed with every new/changed badge, I have to manually add and organize the files in Figma each time which can be very time consuming. **PRs will likely not be merged**. I would rather not remove this file, since it can be useful to keep in case I lose the original Figma project or you want to modify a currently existing badge. Apologies for this!
+
+If you need your own badge that isn't already in the repository, you can use the badge template in the `/other` folder. Simply open it up with Figma and follow the instructions.
